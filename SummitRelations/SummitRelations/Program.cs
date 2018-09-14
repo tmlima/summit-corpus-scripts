@@ -22,6 +22,8 @@ namespace SummitRelations
 
             Console.WriteLine("Null markables: " + CountNullMarkables(markables));
 
+            NonDirectMarkables(markables);
+
             Console.ReadKey();
         }
 
@@ -75,6 +77,17 @@ namespace SummitRelations
         static int CountNullMarkables(List<Markable> markables)
         {
             return markables.Where(x => x.IsAnaphoric == null).Count();
+        }
+
+        // quantos markables tem de cada tipo não-direto
+        static void NonDirectMarkables(List<Markable> markables)
+        {
+            IEnumerable<string> types = markables.Where(x => x.IsAnaphoric != null).Select(x => x.IsAnaphoric).Distinct();
+
+            foreach (string t in types)
+            {
+                Console.WriteLine("[" + t + "]: " + markables.Where(x => x.IsAnaphoric == t).Count());
+            }
         }
     }
 }
