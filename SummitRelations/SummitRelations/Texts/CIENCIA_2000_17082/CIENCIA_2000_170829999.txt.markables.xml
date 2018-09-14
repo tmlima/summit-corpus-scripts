@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<markables>
+<markable id="markable_94" span="word_1..word_3" member="set_17"  status="new"  np_n="yes"  np_form="def-pn" />
+<markable id="markable_137" span="word_5..word_23" member="set_20"  np_n="yes"  np_form="indef-np" />
+<markable id="markable_4" span="word_8" member="set_19"  np_n="yes"  np_form="bare-np" />
+<markable id="markable_95" span="word_11" pro_form="num-ana"  np_n="no" />
+</markables>

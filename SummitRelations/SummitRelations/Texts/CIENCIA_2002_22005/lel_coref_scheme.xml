@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<annotationscheme>
+	
+	<attribute id="level_1" name = "comment" text="Adicione seu comentário aqui" type="freetext">
+		<value id="value_1" name = "comment"/>
+	</attribute>	
+	
+	<attribute id="level_2" name="member" type="id">
+		<value id="value_2" name = "member"/>
+	</attribute>	
+
+	<attribute id="level_3" name="pointer" type="id">
+		<value id="value_3" name = "pointer"/>
+	</attribute>
+	
+	<attribute id="level_4" name="np_n" text="Esta expressão é um np c/ nucleo nome">
+		<value id="value_4" name = "yes" next="level_5"/>	
+		<value id="value_5" name = "no" next="level_6"/>	
+	</attribute>
+
+	<attribute id="level_5" name="np_form" text="Qual a configuração do sintagma nominal?">
+		<value id="value_6" name = "indef-np" text="SN det indefinido núcleo nome"/>
+		<value id="value_7" name = "def-np" text="SN det definido núcleo nome comum" next="level_7"/>
+		<value id="value_8" name = "def-pn" text="SN det definido núcleo nome próprio" next="level_7"/>
+		<value id="value_9" name = "dem-np" text="SN det demonstrativo núcleo nome"/>
+		<value id="value_10" name = "poss-np" text="SN det possessivo núcleo nome"/>
+		<value id="value_11" name = "int-np" text="SN det interrogativo núcleo nome"/>
+		<value id="value_12" name = "num-np" text="SN numeral núcleo nome"/>
+		<value id="value_13" name = "quant-np" text="SN quantificador núcleo nome"/>
+		<value id="value_14" name = "coord-np" text="SNs coordenados"/>
+		<value id="value_15" name = "bare-np" text="SN núcleo nome s/ det"/>
+		<value id="value_16" name = "pn" text="SN núcleo nome próprio s/ det"/>			
+	</attribute>	
+	
+	<attribute id="level_6" name="pro_form" text="Qual a configuração do sintagma nominal?">
+		<value id="value_17" name = "indef-pro" text="pronome indefinido"/>
+		<value id="value_18" name = "dem-pro" text="pronome demonstrativo"/>
+		<value id="value_19" name = "pes-pro" text="pronome pessoal"/>
+		<value id="value_20" name = "poss-pro" text="pronome possessivo"/>
+		<value id="value_21" name = "int-pro" text="pronome interrogativo"/>
+		<value id="value_22" name = "num-ana" text="determinante numeral"/>		
+	</attribute>	
+	
+	<attribute id="level_7" name="status" text="Esta expressão é nova no discurso, uma anáfora associativa ou uma anáfora correferêncial ou uma referência dêitica?">
+		<value id="value_23" name = "new" text="nova no discurso"/>
+		<value id="value_24" name = "old" text="anáfora correferencial" next="level_8"/>
+		<value id="value_25" name = "associative" text="anáfora associativa" next="level_9"/>
+		<value id="value_26" name = "deictic" text="referência dêitica"/>
+	</attribute>	
+	
+	<attribute id="level_8" name="is_anaphoric" text="Qual o tipo de relação entre a expressão anafórica e seu antecedente?">
+		<value id="value_27" name = "direct" text="anáfora direta"/>
+		<value id="value_28" name = "indirect" text="anáfora indireta"/>
+		<value id="value_29" name = "encapsulation" text="encapsulamento anafórico"/>
+	</attribute>	
+
+	<attribute id="level_9" name="is_bridging" text="Qual o tipo de relação entre a expressão anafórica e seu antecedente?">
+		<value id="value_30" name = "other-brigding"/>
+		<value id="value_31" name = "element-of"/>
+		<value id="value_32" name = "element-of-inv"/>
+		<value id="value_33" name = "subset"/>
+		<value id="value_34" name = "part-of"/>
+		<value id="value_35" name = "part-of-inv"/>
+		<value id="value_36" name = "entity-attribute"/>
+		<value id="value_37" name = "possessor-thing"/>		
+	</attribute>	
+
+	</annotationscheme>

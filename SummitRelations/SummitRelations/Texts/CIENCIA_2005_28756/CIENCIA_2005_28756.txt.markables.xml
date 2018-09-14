@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<markables>
+<markable id="markable_1" span="word_1..word_3" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_2" span="word_5..word_6" member="set_6"  np_n="yes"  np_form="bare-np" />
+<markable id="markable_181" span="word_8..word_17" member="set_20"  status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_141" span="word_13..word_14" np_n="yes"  np_form="bare-np" />
+<markable id="markable_5" span="word_16..word_17" member="set_14"  status="new"  np_n="yes"  np_form="def-pn" />
+<markable id="markable_139" span="word_22..word_33" np_n="yes"  np_form="indef-np" />
+<markable id="markable_7" span="word_25..word_27" np_n="yes"  np_form="num-np" />
+<markable id="markable_8" span="word_27" np_n="yes"  np_form="bare-np" />
+<markable id="markable_9" span="word_29..word_33" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_10" span="word_32..word_33" member="set_15"  comment="mamiferos"  np_n="yes"  np_form="dem-np" />
+<markable id="markable_11" span="word_35..word_36" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_12" span="word_38..word_39" member="set_20"  is_anaphoric="indirect"  status="old"  np_n="yes"  np_form="def-np" />
+<markable id="markable_13" span="word_46..word_47" member="set_11"  np_n="yes"  np_form="indef-np" />
+<markable id="markable_182" span="word_49..word_54" member="set_18"  np_n="yes"  np_form="pn" />
+<markable id="markable_16" span="word_53..word_54" status="new"  np_n="yes"  np_form="def-pn" />
+<markable id="markable_17" span="word_57..word_61" np_n="yes"  np_form="indef-np" />
+<markable id="markable_18" span="word_61" np_n="yes"  np_form="bare-np" />
+<markable id="markable_19" span="word_63" member="set_18"  pro_form="pes-pro"  np_n="no" />
+<markable id="markable_20" span="word_68..word_70" np_n="yes"  np_form="indef-np" />
+<markable id="markable_21" span="word_74..word_80" np_n="yes"  np_form="indef-np" />
+<markable id="markable_22" span="word_77..word_80" np_n="yes"  np_form="num-np" />
+<markable id="markable_23" span="word_80" np_n="yes"  np_form="bare-np" />
+<markable id="markable_143" span="word_89..word_96" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_25" span="word_92..word_93" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_26" span="word_95..word_96" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_144" span="word_98" pro_form="int-pro"  np_n="no" />
+<markable id="markable_27" span="word_103..word_104" np_n="yes"  np_form="quant-np" />
+<markable id="markable_145" span="word_108..word_113" status="new"  np_n="yes"  np_form="def-pn" />
+<markable id="markable_31" span="word_117..word_119" status="deictic"  np_n="yes"  np_form="def-np" />
+<markable id="markable_32" span="word_122..word_123" status="new"  np_n="yes"  np_form="def-pn" />
+<markable id="markable_184" span="word_125..word_134" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_183" span="word_128..word_134" member="set_11"  is_anaphoric="direct"  status="old"  np_n="yes"  np_form="def-np" />
+<markable id="markable_147" span="word_139..word_143" np_n="yes"  np_form="bare-np" />
+<markable id="markable_37" span="word_141..word_143" np_n="yes"  np_form="indef-np" />
+<markable id="markable_38" span="word_146..word_148" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_39" span="word_151..word_152" member="set_20"  is_anaphoric="indirect"  status="old"  np_n="yes"  np_form="def-np" />
+<markable id="markable_40" span="word_157..word_158" member="set_26"  np_n="yes"  np_form="indef-np" />
+<markable id="markable_180" span="word_160..word_164" np_n="yes"  np_form="coord-np" />
+<markable id="markable_41" span="word_162" np_n="yes"  np_form="bare-np" />
+<markable id="markable_42" span="word_164" np_n="yes"  np_form="bare-np" />
+<markable id="markable_186" span="word_166" member="set_25"  np_n="yes"  np_form="indef-np" />
+<markable id="markable_187" span="word_168" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_45" span="word_172..word_173" pointer="markable_187"  np_n="yes"  np_form="poss-np" />
+<markable id="markable_46" span="word_175..word_176" np_n="yes"  np_form="indef-np" />
+<markable id="markable_47" span="word_183" member="set_20"  pro_form="pes-pro"  np_n="no" />
+<markable id="markable_48" span="word_185..word_186" member="set_25"  np_n="yes"  np_form="indef-np" />
+<markable id="markable_49" span="word_189" member="set_18"  np_n="yes"  np_form="pn" />
+<markable id="markable_50" span="word_192..word_193" comment="ele seja um marsupial"  np_n="yes"  np_form="poss-np" />
+<markable id="markable_51" span="word_197..word_198" member="set_6"  is_anaphoric="direct"  status="old"  np_n="yes"  np_form="def-np" />
+<markable id="markable_148" span="word_204..word_205" member="set_27"  np_n="yes"  np_form="bare-np" />
+<markable id="markable_54" span="word_207..word_208" member="set_11"  is_anaphoric="indirect"  status="old"  np_n="yes"  np_form="def-np" />
+<markable id="markable_55" span="word_210" member="set_11"  pro_form="pes-pro"  np_n="no" />
+<markable id="markable_154" span="word_213..word_230" member="set_27"  is_anaphoric="direct"  status="old"  np_n="yes"  np_form="def-np" />
+<markable id="markable_153" span="word_216..word_230" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_149" span="word_221" np_n="yes"  np_form="bare-np" />
+<markable id="markable_150" span="word_224" np_n="yes"  np_form="bare-np" />
+<markable id="markable_152" span="word_224..word_226" np_n="yes"  np_form="coord-np" />
+<markable id="markable_151" span="word_226" np_n="yes"  np_form="bare-np" />
+<markable id="markable_155" span="word_232..word_237" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_64" span="word_236..word_237" member="set_11"  is_anaphoric="direct"  status="old"  np_n="yes"  np_form="def-np" />
+<markable id="markable_65" span="word_239..word_240" pointer="markable_149"  np_n="yes"  np_form="dem-np" />
+<markable id="markable_66" span="word_243" member="set_18"  np_n="yes"  np_form="pn" />
+<markable id="markable_67" span="word_245..word_249" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_68" span="word_248..word_249" member="set_11"  is_anaphoric="indirect"  status="old"  np_n="yes"  np_form="def-np" />
+<markable id="markable_69" span="word_259..word_261" status="associative"  pointer="markable_68"  is_bridging="entity-attribute"  np_n="yes"  np_form="def-np" />
+<markable id="markable_163" span="word_266..word_305" member="set_20"  is_anaphoric="direct"  status="old"  np_n="yes"  np_form="def-np" />
+<markable id="markable_162" span="word_272..word_305" member="set_22"  status="new"  np_n="yes"  np_form="def-pn" />
+<markable id="markable_161" span="word_280..word_305" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_160" span="word_283..word_305" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_158" span="word_286..word_287" np_n="yes"  np_form="poss-np" />
+<markable id="markable_157" span="word_289..word_290" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_156" span="word_295..word_305" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_79" span="word_298..word_299" member="set_13"  status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_80" span="word_302..word_305" member="set_23"  np_n="yes"  np_form="num-np" />
+<markable id="markable_81" span="word_305" np_n="yes"  np_form="bare-np" />
+<markable id="markable_185" span="word_308..word_324" member="set_21"  status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_84" span="word_315..word_316" member="set_13"  is_anaphoric="indirect"  status="old"  np_n="yes"  np_form="def-np" />
+<markable id="markable_85" span="word_319..word_324" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_86" span="word_323..word_324" np_n="yes"  np_form="bare-np" />
+<markable id="markable_87" span="word_327..word_330" np_n="yes"  np_form="quant-np" />
+<markable id="markable_88" span="word_330" member="set_15"  np_n="yes"  np_form="bare-np" />
+<markable id="markable_89" span="word_332..word_333" member="set_14"  is_anaphoric="direct"  status="old"  np_n="yes"  np_form="def-pn" />
+<markable id="markable_90" span="word_338..word_339" status="new"  np_n="yes"  np_form="def-pn" />
+<markable id="markable_165" span="word_342" member="set_15"  pro_form="indef-pro"  np_n="no" />
+<markable id="markable_168" span="word_349..word_361" np_n="yes"  np_form="quant-np" />
+<markable id="markable_167" span="word_353..word_361" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_166" span="word_356..word_357" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_95" span="word_363..word_364" is_anaphoric="encapsulation"  status="old"  comment="mas todos sao formas muito primitivas, sem nenhuma relacao direta com as especies do grupo que estao vivas hoje"  np_n="yes"  np_form="def-np" />
+<markable id="markable_96" span="word_367" np_n="yes"  np_form="bare-np" />
+<markable id="markable_97" span="word_369..word_371" member="set_20"  is_anaphoric="direct"  status="old"  np_n="yes"  np_form="def-np" />
+<markable id="markable_98" span="word_378" member="set_20"  pro_form="pes-pro"  np_n="no" />
+<markable id="markable_99" span="word_380" member="set_20"  pro_form="pes-pro"  np_n="no" />
+<markable id="markable_100" span="word_384..word_389" np_n="yes"  np_form="bare-np" />
+<markable id="markable_101" span="word_386..word_389" np_n="yes"  np_form="bare-np" />
+<markable id="markable_102" span="word_388..word_389" np_n="yes"  np_form="bare-np" />
+<markable id="markable_104" span="word_393" member="set_20"  pro_form="pes-pro"  np_n="no" />
+<markable id="markable_105" span="word_395..word_397" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_169" span="word_399..word_409" np_n="yes"  np_form="bare-np" />
+<markable id="markable_108" span="word_405..word_409" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_109" span="word_408..word_409" member="set_21"  is_anaphoric="direct"  status="old"  np_n="yes"  np_form="def-pn" />
+<markable id="markable_110" span="word_412" member="set_20"  pro_form="pes-pro"  np_n="no" />
+<markable id="markable_112" span="word_415..word_419" np_n="yes"  np_form="bare-np" />
+<markable id="markable_113" span="word_418..word_419" member="set_22"  is_anaphoric="direct"  status="old"  np_n="yes"  np_form="def-pn" />
+<markable id="markable_170" span="word_421" np_n="yes"  np_form="dem-np" />
+<markable id="markable_114" span="word_424" member="set_20"  pro_form="pes-pro"  np_n="no" />
+<markable id="markable_171" span="word_430..word_433" member="set_23"  np_n="yes"  np_form="num-np" />
+<markable id="markable_172" span="word_433" np_n="yes"  np_form="bare-np" />
+<markable id="markable_117" span="word_437..word_440" np_n="yes"  np_form="num-np" />
+<markable id="markable_118" span="word_440" np_n="yes"  np_form="bare-np" />
+<markable id="markable_119" span="word_443..word_445" member="set_18"  is_anaphoric="indirect"  status="old"  np_n="yes"  np_form="def-np" />
+<markable id="markable_174" span="word_447..word_462" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_121" span="word_450..word_451" member="set_25"  is_anaphoric="indirect"  status="old"  np_n="yes"  np_form="def-np" />
+<markable id="markable_173" span="word_450..word_453" np_n="yes"  np_form="coord-np" />
+<markable id="markable_122" span="word_453" member="set_26"  np_n="yes"  np_form="bare-np" />
+<markable id="markable_123" span="word_458..word_462" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_124" span="word_462" member="set_26"  np_n="yes"  np_form="bare-np" />
+<markable id="markable_188" span="word_467..word_472" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_127" span="word_471..word_472" status="associative"  pointer="markable_183"  is_bridging="element-of-inv"  np_n="yes"  np_form="def-np" />
+<markable id="markable_128" span="word_478..word_479" status="associative"  pointer="markable_149"  is_bridging="subset"  np_n="yes"  np_form="def-np" />
+<markable id="markable_176" span="word_482" np_n="yes"  np_form="bare-np" />
+<markable id="markable_130" span="word_487..word_488" member="set_20"  is_anaphoric="indirect"  status="old"  np_n="yes"  np_form="def-np" />
+<markable id="markable_177" span="word_493..word_494" member="set_25"  np_n="yes"  np_form="indef-np" />
+<markable id="markable_132" span="word_497..word_498" member="set_6"  is_anaphoric="direct"  status="old"  np_n="yes"  np_form="def-np" />
+<markable id="markable_133" span="word_504" member="set_20"  pro_form="pes-pro"  np_n="no" />
+<markable id="markable_134" span="word_508..word_509" status="new"  np_n="yes"  np_form="def-pn" />
+<markable id="markable_135" span="word_512..word_515" np_n="yes"  np_form="bare-np" />
+<markable id="markable_136" span="word_514..word_515" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_137" span="word_520..word_522" status="new"  np_n="yes"  np_form="def-np" />
+<markable id="markable_138" span="word_525..word_526" member="set_21"  is_anaphoric="direct"  status="old"  np_n="yes"  np_form="def-pn" />
+</markables>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT chunk (chunk*)>
+<!ATTLIST chunk
+	id ID #REQUIRED
+	ext CDATA #REQUIRED
+	form CDATA #IMPLIED
+	span CDATA #IMPLIED
+>
+<!ELEMENT paragraph (sentence*)>
+<!ATTLIST paragraph
+	id ID #REQUIRED
+>
+<!ELEMENT sentence (chunk*)>
+<!ATTLIST sentence
+	id ID #REQUIRED
+	span CDATA #REQUIRED
+>
+<!ELEMENT text (paragraph+)>

@@ -1,0 +1,6 @@
+"words ./CIENCIA_2000_6389.txt.words.xml"
+"text ./CIENCIA_2000_6389.txt.chunks.xml"
+"markables ./CIENCIA_2000_6389.txt.markables.xml"
+"stylesheet text.xsl"
+"scheme lel_coref_scheme.xml"
+"readonly_leves yes"

@@ -1,0 +1,1311 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<words>
+<word id="word_1">
+<art canon="o" gender="M" number="P">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_2">
+<n canon="fragmento" gender="M" number="P">
+  <secondary_n tag="cc"/>
+</n>
+</word>
+<word id="word_3">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_4">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_5">
+<n canon="satélite" gender="M" number="S">
+  <secondary_n tag="Vair"/>
+</n>
+</word>
+<word id="word_6">
+<adj canon="italiano" gender="M" number="S"/>
+</word>
+<word id="word_7">
+<prop canon="Bepposax" gender="M-F" number="S">
+  <secondary_prop tag="hum"/>
+</prop>
+</word>
+<word id="word_8">
+<v canon="mergulhar">
+<fin tense="PS-MQP" person="3P" mode="IND"/>
+</v>
+</word>
+<word id="word_9">
+<prp canon="em">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_10">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_11">
+<n canon="noite" gender="F" number="S">
+  <secondary_n tag="temp"/>
+  <secondary_n tag="per"/>
+</n>
+</word>
+<word id="word_12">
+<prp canon="de"/>
+</word>
+<word id="word_13">
+<adv canon="ontem">
+  <secondary_adv tag="atemp"/>
+</adv>
+</word>
+<word id="word_14">
+<prp canon="em">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_15">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_16">
+<n canon="oceano" gender="M" number="S">
+  <secondary_n tag="Lwater"/>
+</n>
+</word>
+<word id="word_17">
+<adj canon="pacífico" gender="M" number="S"/>
+</word>
+<word id="word_19">
+<v canon="deixar">
+<ger/>
+</v>
+</word>
+<word id="word_20">
+<adj canon="aliviado" gender="M" number="P"/>
+</word>
+<word id="word_21">
+<art canon="o" gender="M" number="P">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_22">
+<adv canon="mais_de">
+  <secondary_adv tag="quant"/>
+</adv>
+</word>
+<word id="word_23">
+<num canon="30" gender="M-F" number="P">
+  <secondary_num tag="card"/>
+</num>
+</word>
+<word id="word_24">
+<n canon="país" gender="M" number="P">
+  <secondary_n tag="HH"/>
+  <secondary_n tag="civ"/>
+</n>
+</word>
+<word id="word_25">
+<adv canon="inclusive"/>
+</word>
+<word id="word_26">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_27">
+<prop canon="Brasil" gender="M" number="S">
+  <secondary_prop tag="civ"/>
+</prop>
+</word>
+<word id="word_28">
+<conj canon="que">
+  <secondary_conj tag="s"/>
+</conj>
+</word>
+<word id="word_29">
+<v canon="estar">
+<fin tense="IMPF" person="3P" mode="IND"/>
+</v>
+</word>
+<word id="word_30">
+<prp canon="sob"/>
+</word>
+<word id="word_31">
+<n canon="risco" gender="M" number="S">
+  <secondary_n tag="ac-sign"/>
+  <secondary_n tag="ac"/>
+</n>
+</word>
+<word id="word_32">
+<prp canon="de"/>
+</word>
+<word id="word_33">
+<v canon="ser">
+<inf person="3P"/>
+</v>
+</word>
+<word id="word_34">
+<v canon="atingir">
+<pcp gender="M" number="P"/>
+</v>
+</word>
+<word id="word_35">
+<prp canon="por">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_36">
+<art canon="o" gender="M" number="P">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_37">
+<n canon="destroço" gender="M" number="P">
+  <secondary_n tag="event"/>
+</n>
+</word>
+<word id="word_39">
+<adv canon="segundo">
+  <secondary_adv tag="ks"/>
+  <secondary_adv tag="rel"/>
+</adv>
+</word>
+<word id="word_40">
+<v canon="informar">
+<fin tense="PS" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_41">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_42">
+<prop canon="ASI" gender="M-F" number="S"/>
+</word>
+<word id="word_43">
+<n canon="agência" gender="F" number="S">
+  <secondary_n tag="HH"/>
+</n>
+</word>
+<word id="word_44">
+<adj canon="espacial" gender="M-F" number="S"/>
+</word>
+<word id="word_45">
+<n canon="italiana" gender="F" number="S">
+  <secondary_n tag="ling"/>
+  <secondary_n tag="Hnat"/>
+</n>
+</word>
+<word id="word_46">
+<prp canon="em">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_47">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_48">
+<n canon="fim" gender="M" number="S">
+  <secondary_n tag="p"/>
+  <secondary_n tag="event"/>
+  <secondary_n tag="temp"/>
+</n>
+</word>
+<word id="word_49">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_50">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_51">
+<n canon="noite" gender="F" number="S">
+  <secondary_n tag="temp"/>
+  <secondary_n tag="per"/>
+</n>
+</word>
+<word id="word_52">
+<prp canon="de"/>
+</word>
+<word id="word_53">
+<adv canon="ontem">
+  <secondary_adv tag="atemp"/>
+</adv>
+</word>
+<word id="word_54">
+<prp canon="por"/>
+</word>
+<word id="word_55">
+<n canon="telefone" gender="M" number="S">
+  <secondary_n tag="tool"/>
+</n>
+</word>
+<word id="word_57">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_58">
+<n canon="impacto" gender="M" number="S">
+  <secondary_n tag="event"/>
+</n>
+</word>
+<word id="word_59">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_60">
+<art canon="o" gender="M" number="P">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_61">
+<n canon="destroço" gender="M" number="P">
+  <secondary_n tag="event"/>
+</n>
+</word>
+<word id="word_62">
+<v canon="ter">
+<fin tense="COND" person="1-3S"/>
+</v>
+</word>
+<word id="word_63">
+<v canon="ocorrer">
+<pcp gender="M" number="S"/>
+</v>
+</word>
+<word id="word_64">
+<prp canon="a">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_65">
+<art canon="o" gender="F" number="P">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_66">
+<n canon="18h06" gender="F" number="P"/>
+</word>
+<word id="word_67">
+<n canon="horário" gender="M" number="S"/>
+</word>
+<word id="word_68">
+<prp canon="de"/>
+</word>
+<word id="word_69">
+<prop canon="Brasília" gender="F" number="S">
+  <secondary_prop tag="top"/>
+</prop>
+</word>
+<word id="word_71">
+<prp canon="em">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_72">
+<art canon="um" gender="F" number="S">
+  <secondary_art tag="arti"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_73">
+<n canon="área" gender="F" number="S">
+  <secondary_n tag="Lh"/>
+  <secondary_n tag="L"/>
+</n>
+</word>
+<word id="word_74">
+<adj canon="remoto" gender="F" number="S"/>
+</word>
+<word id="word_75">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_76">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_77">
+<n canon="oceano" gender="M" number="S">
+  <secondary_n tag="Lwater"/>
+</n>
+</word>
+<word id="word_79">
+<art canon="o" gender="M" number="P">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_80">
+<n canon="italiano" gender="M" number="P">
+  <secondary_n tag="Hnat"/>
+</n>
+</word>
+<word id="word_81">
+<adv canon="não"/>
+</word>
+<word id="word_82">
+<v canon="dever">
+<fin tense="PR" person="3P" mode="IND"/>
+</v>
+</word>
+<word id="word_83">
+<v canon="conduzir">
+<inf person="0-1-3S"/>
+</v>
+</word>
+<word id="word_84">
+<n canon="operação" gender="F" number="S">
+  <secondary_n tag="act"/>
+</n>
+</word>
+<word id="word_85">
+<prp canon="para"/>
+</word>
+<word id="word_86">
+<v canon="resgatar">
+<inf person="0-1-3S"/>
+</v>
+</word>
+<word id="word_87">
+<art canon="o" gender="M" number="P">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_88">
+<n canon="detrito" gender="M" number="P"/>
+</word>
+<word id="word_90">
+<n canon="estimativa" gender="F" number="P">
+  <secondary_n tag="act"/>
+</n>
+</word>
+<word id="word_91">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_92">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_93">
+<n canon="agência" gender="F" number="S">
+  <secondary_n tag="HH"/>
+</n>
+</word>
+<word id="word_94">
+<v canon="dar">
+<fin tense="IMPF" person="3P" mode="IND"/>
+</v>
+</word>
+<word id="word_95">
+<n canon="conta" gender="F" number="S">
+  <secondary_n tag="cc"/>
+  <secondary_n tag="cc-r"/>
+  <secondary_n tag="con"/>
+  <secondary_n tag="p"/>
+</n>
+</word>
+<word id="word_96">
+<prp canon="de"/>
+</word>
+<word id="word_97">
+<pron canon="que">
+<indp gender="M-F" number="S"/>
+  <secondary_pron tag="rel"/>
+</pron>
+</word>
+<word id="word_98">
+<adv canon="mais_de">
+  <secondary_adv tag="quant"/>
+</adv>
+</word>
+<word id="word_99">
+<num canon="40" gender="M-F" number="P">
+  <secondary_num tag="card"/>
+</num>
+</word>
+<word id="word_100">
+<n canon="pedaço" gender="M" number="P">
+  <secondary_n tag="cc-r"/>
+</n>
+</word>
+<word id="word_102">
+<prp canon="com"/>
+</word>
+<word id="word_103">
+<prp canon="até"/>
+</word>
+<word id="word_104">
+<num canon="120" gender="M-F" number="P">
+  <secondary_num tag="card"/>
+</num>
+</word>
+<word id="word_105">
+<n canon="kg" gender="M" number="S"/>
+</word>
+<word id="word_107">
+<v canon="poder">
+<fin tense="COND" person="3P"/>
+</v>
+</word>
+<word id="word_108">
+<v canon="resistir">
+<inf person="0-1-3S"/>
+</v>
+</word>
+<word id="word_109">
+<prp canon="a">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_110">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_111">
+<n canon="atrito" gender="M" number="S">
+  <secondary_n tag="process"/>
+</n>
+</word>
+<word id="word_112">
+<prp canon="com"/>
+</word>
+<word id="word_113">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_114">
+<n canon="ar" gender="M" number="S">
+  <secondary_n tag="ac"/>
+  <secondary_n tag="f-an"/>
+  <secondary_n tag="cm"/>
+</n>
+</word>
+<word id="word_115">
+<conj canon="e">
+  <secondary_conj tag="c"/>
+  <secondary_conj tag="co-inf"/>
+</conj>
+</word>
+<word id="word_116">
+<v canon="chegar">
+<inf person="0-1-3S"/>
+</v>
+</word>
+<word id="word_117">
+<prp canon="a">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_118">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_119">
+<n canon="solo" gender="M" number="S">
+  <secondary_n tag="cc-build"/>
+  <secondary_n tag="Ltop"/>
+</n>
+</word>
+<word id="word_121">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_122">
+<n canon="chance" gender="F" number="S">
+  <secondary_n tag="ac"/>
+</n>
+</word>
+<word id="word_123">
+<prp canon="de"/>
+</word>
+<word id="word_124">
+<conj canon="que">
+  <secondary_conj tag="s"/>
+</conj>
+</word>
+<word id="word_125">
+<num canon="um" gender="M" number="S">
+  <secondary_num tag="card"/>
+</num>
+</word>
+<word id="word_126">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_127">
+<art canon="o" gender="M" number="P">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_128">
+<n canon="pedaço" gender="M" number="P">
+  <secondary_n tag="cc-r"/>
+</n>
+</word>
+<word id="word_129">
+<v canon="atingir">
+<fin tense="IMPF" person="1-3S" mode="SUBJ"/>
+</v>
+</word>
+<word id="word_130">
+<art canon="um" gender="F" number="S">
+  <secondary_art tag="arti"/>
+</art>
+</word>
+<word id="word_131">
+<n canon="pessoa" gender="F" number="S">
+  <secondary_n tag="H"/>
+</n>
+</word>
+<word id="word_132">
+<v canon="ser">
+<fin tense="IMPF" person="1-3S" mode="IND"/>
+</v>
+</word>
+<word id="word_133">
+<adj canon="pequeno" gender="F" number="S">
+  <secondary_adj tag="SUP"/>
+</adj>
+</word>
+<word id="word_135">
+<conj canon="mas">
+  <secondary_conj tag="c"/>
+  <secondary_conj tag="co-vfin"/>
+  <secondary_conj tag="co-fmc"/>
+</conj>
+</word>
+<word id="word_136">
+<n canon="autoridade" gender="F" number="P"/>
+</word>
+<word id="word_137">
+<prp canon="de"/>
+</word>
+<word id="word_138">
+<adj canon="diverso" gender="M" number="P"/>
+</word>
+<word id="word_139">
+<n canon="país" gender="M" number="P">
+  <secondary_n tag="HH"/>
+  <secondary_n tag="civ"/>
+</n>
+</word>
+<word id="word_141">
+<adv canon="inclusive"/>
+</word>
+<word id="word_142">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_143">
+<prop canon="Agência_Espacial_Brasileira" gender="F" number="S">
+  <secondary_prop tag="org"/>
+</prop>
+</word>
+<word id="word_145">
+<v canon="estar">
+<fin tense="IMPF" person="3P" mode="IND"/>
+</v>
+</word>
+<word id="word_146">
+<adj canon="pronto" gender="F" number="P"/>
+</word>
+<word id="word_147">
+<prp canon="para"/>
+</word>
+<word id="word_148">
+<pron canon="qualquer">
+<det gender="M-F" number="S"/>
+  <secondary_pron tag="quant"/>
+</pron>
+</word>
+<word id="word_149">
+<n canon="contingência" gender="F" number="S">
+  <secondary_n tag="event"/>
+</n>
+</word>
+<word id="word_151">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_152">
+<n canon="satélite" gender="M" number="S"/>
+</word>
+<word id="word_154">
+<prp canon="com"/>
+</word>
+<word id="word_155">
+<n canon="massa" gender="F" number="S">
+  <secondary_n tag="HH"/>
+  <secondary_n tag="mon"/>
+  <secondary_n tag="food-h"/>
+  <secondary_n tag="cm"/>
+</n>
+</word>
+<word id="word_156">
+<adj canon="total" gender="M-F" number="S"/>
+</word>
+<word id="word_157">
+<prp canon="de"/>
+</word>
+<word id="word_158">
+<adv canon="aproximadamente"/>
+</word>
+<word id="word_159">
+<num canon="1,4" gender="M-F" number="P">
+  <secondary_num tag="card"/>
+</num>
+</word>
+<word id="word_160">
+<n canon="tonelada" gender="F" number="S"/>
+</word>
+<word id="word_162">
+<v canon="ser">
+<fin tense="PS" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_163">
+<v canon="construir">
+<pcp gender="M" number="S"/>
+</v>
+</word>
+<word id="word_164">
+<prp canon="por">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_165">
+<art canon="o" gender="M" number="P">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_166">
+<n canon="italiano" gender="M" number="P">
+  <secondary_n tag="Hnat"/>
+</n>
+</word>
+<word id="word_168">
+<prp canon="em"/>
+</word>
+<word id="word_169">
+<n canon="colaboração" gender="F" number="S">
+  <secondary_n tag="activity"/>
+</n>
+</word>
+<word id="word_170">
+<prp canon="com"/>
+</word>
+<word id="word_171">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_172">
+<prop canon="Holanda" gender="F" number="S">
+  <secondary_prop tag="civ"/>
+</prop>
+</word>
+<word id="word_174">
+<prp canon="para"/>
+</word>
+<word id="word_175">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_176">
+<n canon="estudo" gender="M" number="S">
+  <secondary_n tag="sem-l"/>
+  <secondary_n tag="per"/>
+  <secondary_n tag="activity"/>
+</n>
+</word>
+<word id="word_177">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_178">
+<art canon="o" gender="M" number="P">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_179">
+<n canon="raios_X" gender="M" number="P">
+  <secondary_n tag="ac"/>
+</n>
+</word>
+<word id="word_180">
+<v canon="vir">
+<pcp gender="M" number="P"/>
+</v>
+</word>
+<word id="word_181">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_182">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_183">
+<n canon="espaço" gender="M" number="S">
+  <secondary_n tag="Labs"/>
+</n>
+</word>
+<word id="word_184">
+<adj canon="cósmico" gender="M" number="S"/>
+</word>
+<word id="word_186">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_187">
+<n canon="equipamento" gender="M" number="S"/>
+</word>
+<word id="word_188">
+<v canon="ser">
+<fin tense="PS" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_189">
+<v canon="lançar">
+<pcp gender="M" number="S"/>
+</v>
+</word>
+<word id="word_190">
+<prp canon="a">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_191">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_192">
+<n canon="espaço" gender="M" number="S">
+  <secondary_n tag="Labs"/>
+</n>
+</word>
+<word id="word_193">
+<prp canon="em"/>
+</word>
+<word id="word_194">
+<num canon="1996" gender="M-F" number="P">
+  <secondary_num tag="card"/>
+</num>
+</word>
+<word id="word_196">
+<prp canon="em">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_197">
+<art canon="um" gender="F" number="S">
+  <secondary_art tag="arti"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_198">
+<n canon="órbita" gender="F" number="S">
+  <secondary_n tag="Labs"/>
+  <secondary_n tag="an"/>
+</n>
+</word>
+<word id="word_199">
+<adj canon="baixo" gender="F" number="S"/>
+</word>
+<word id="word_200">
+<adv canon="cerca_de"/>
+</word>
+<word id="word_201">
+<num canon="600" gender="M-F" number="P">
+  <secondary_num tag="card"/>
+</num>
+</word>
+<word id="word_202">
+<n canon="km" gender="M" number="S"/>
+</word>
+<word id="word_203">
+<prp canon="de"/>
+</word>
+<word id="word_204">
+<n canon="altitude" gender="F" number="S">
+  <secondary_n tag="am"/>
+</n>
+</word>
+<word id="word_205">
+<prp canon="com"/>
+</word>
+<word id="word_206">
+<art canon="um" gender="F" number="S">
+  <secondary_art tag="arti"/>
+</art>
+</word>
+<word id="word_207">
+<adj canon="pequeno" gender="F" number="S"/>
+</word>
+<word id="word_208">
+<n canon="inclinação" gender="F" number="S">
+  <secondary_n tag="am"/>
+  <secondary_n tag="f"/>
+</n>
+</word>
+<word id="word_210">
+<adv canon="ou_seja">
+  <secondary_adv tag="kc"/>
+</adv>
+</word>
+<word id="word_212">
+<adv canon="quase">
+  <secondary_adv tag="quant"/>
+</adv>
+</word>
+<word id="word_213">
+<adv canon="exatamente"/>
+</word>
+<word id="word_214">
+<prp canon="sobre"/>
+</word>
+<word id="word_215">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_216">
+<n canon="linha" gender="F" number="S">
+  <secondary_n tag="geom"/>
+</n>
+</word>
+<word id="word_217">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_218">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_219">
+<prop canon="Equador" gender="M" number="S">
+  <secondary_prop tag="civ"/>
+</prop>
+</word>
+<word id="word_221">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_222">
+<n canon="missão" gender="F" number="S"/>
+</word>
+<word id="word_223">
+<adj canon="científico" gender="F" number="S"/>
+</word>
+<word id="word_224">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_225">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_226">
+<n canon="nave" gender="F" number="S">
+  <secondary_n tag="Vwater"/>
+</n>
+</word>
+<word id="word_227">
+<v canon="ser">
+<fin tense="PS" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_228">
+<v canon="concluir">
+<pcp gender="F" number="S"/>
+</v>
+</word>
+<word id="word_229">
+<prp canon="em"/>
+</word>
+<word id="word_230">
+<num canon="30" gender="M-F" number="P">
+  <secondary_num tag="card"/>
+</num>
+</word>
+<word id="word_231">
+<prp canon="de"/>
+</word>
+<word id="word_232">
+<n canon="abril" gender="M" number="S"/>
+</word>
+<word id="word_233">
+<prp canon="de"/>
+</word>
+<word id="word_234">
+<num canon="2002" gender="M-F" number="P">
+  <secondary_num tag="card"/>
+</num>
+</word>
+<word id="word_236">
+<adv canon="depois">
+  <secondary_adv tag="atemp"/>
+</adv>
+</word>
+<word id="word_237">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_238">
+<pron canon="isso">
+<indp gender="M" number="S"/>
+  <secondary_pron tag="dem"/>
+  <secondary_pron tag="-sam"/>
+</pron>
+</word>
+<word id="word_240">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_241">
+<n canon="satélite" gender="M" number="S">
+  <secondary_n tag="Vair"/>
+</n>
+</word>
+<word id="word_242">
+<v canon="deixar">
+<fin tense="PS" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_243">
+<prp canon="de"/>
+</word>
+<word id="word_244">
+<v canon="ter">
+<inf person="0-1-3S"/>
+</v>
+</word>
+<word id="word_245">
+<pron canon="seu">
+<det gender="" number=""/>
+  <secondary_pron tag="3S"/>
+  <secondary_pron tag="F"/>
+  <secondary_pron tag="S"/>
+</pron>
+</word>
+<word id="word_246">
+<n canon="órbita" gender="F" number="S">
+  <secondary_n tag="an"/>
+</n>
+</word>
+<word id="word_247">
+<v canon="corrigir">
+<pcp gender="F" number="S"/>
+</v>
+</word>
+<word id="word_249">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_250">
+<n canon="atrito" gender="M" number="S">
+  <secondary_n tag="process"/>
+</n>
+</word>
+<word id="word_251">
+<prp canon="com"/>
+</word>
+<word id="word_252">
+<art canon="o" gender="F" number="P">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_253">
+<n canon="camada" gender="F" number="P"/>
+</word>
+<word id="word_254">
+<adv canon="mais">
+  <secondary_adv tag="KOMP"/>
+  <secondary_adv tag="quant"/>
+</adv>
+</word>
+<word id="word_255">
+<adj canon="alto" gender="F" number="P"/>
+</word>
+<word id="word_256">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_257">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_258">
+<n canon="atmosfera" gender="F" number="S">
+  <secondary_n tag="unit"/>
+  <secondary_n tag="sit"/>
+  <secondary_n tag="Ltop"/>
+</n>
+</word>
+<word id="word_259">
+<adv canon="gradativamente"/>
+</word>
+<word id="word_260">
+<v canon="diminuir">
+<fin tense="PS" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_261">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_262">
+<n canon="altitude" gender="F" number="S">
+  <secondary_n tag="am"/>
+</n>
+</word>
+<word id="word_264">
+<pron canon="o_que">
+<indp gender="M-F" number="S"/>
+  <secondary_pron tag="rel"/>
+</pron>
+</word>
+<word id="word_265">
+<v canon="culminar">
+<fin tense="PS" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_266">
+<prp canon="com"/>
+</word>
+<word id="word_267">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_268">
+<v canon="reentrar">
+<pcp gender="F" number="S"/>
+</v>
+</word>
+<word id="word_270">
+<adv canon="ontem">
+  <secondary_adv tag="atemp"/>
+</adv>
+</word>
+<word id="word_272">
+<conj canon="como">
+  <secondary_conj tag="s"/>
+</conj>
+</word>
+<word id="word_273">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_274">
+<v canon="volver">
+<pcp gender="F" number="S"/>
+</v>
+</word>
+<word id="word_275">
+<prp canon="a">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_276">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_277">
+<n canon="terra" gender="F" number="S">
+  <secondary_n tag="BB"/>
+  <secondary_n tag="Ltop"/>
+  <secondary_n tag="cm"/>
+</n>
+</word>
+<word id="word_278">
+<adv canon="não"/>
+</word>
+<word id="word_279">
+<v canon="ser">
+<fin tense="PS" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_280">
+<v canon="realizar">
+<pcp gender="F" number="S"/>
+</v>
+</word>
+<word id="word_281">
+<prp canon="de"/>
+</word>
+<word id="word_282">
+<n canon="forma" gender="F" number="S">
+  <secondary_n tag="con"/>
+  <secondary_n tag="f"/>
+  <secondary_n tag="am"/>
+</n>
+</word>
+<word id="word_283">
+<v canon="controlar">
+<pcp gender="F" number="S"/>
+</v>
+</word>
+<word id="word_284">
+<adv canon="como">
+  <secondary_adv tag="interr"/>
+</adv>
+</word>
+<word id="word_285">
+<v canon="acontecer">
+<fin tense="PS" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_286">
+<prp canon="com"/>
+</word>
+<word id="word_287">
+<art canon="o" gender="F" number="P">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_288">
+<num canon="135" gender="M-F" number="P">
+  <secondary_num tag="card"/>
+</num>
+</word>
+<word id="word_289">
+<n canon="tonelada" gender="F" number="P"/>
+</word>
+<word id="word_290">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_291">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_292">
+<n canon="estação_espacial" gender="M" number="S">
+  <secondary_n tag="Lh"/>
+</n>
+</word>
+<word id="word_293">
+<prop canon="Mir" gender="M-F" number="S"/>
+</word>
+<word id="word_295">
+<prp canon="em"/>
+</word>
+<word id="word_296">
+<num canon="2001" gender="M-F" number="P">
+  <secondary_num tag="card"/>
+</num>
+</word>
+<word id="word_298">
+<v canon="ser">
+<fin tense="IMPF" person="1-3S" mode="IND"/>
+</v>
+</word>
+<word id="word_299">
+<adj canon="impossível" gender="M-F" number="S"/>
+</word>
+<word id="word_300">
+<v canon="prever">
+<inf person="0-1-3S"/>
+</v>
+</word>
+<word id="word_301">
+<adv canon="exatamente"/>
+</word>
+<word id="word_302">
+<adv canon="onde">
+  <secondary_adv tag="aloc"/>
+  <secondary_adv tag="ks"/>
+  <secondary_adv tag="rel"/>
+</adv>
+</word>
+<word id="word_303">
+<art canon="o" gender="M" number="P">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_304">
+<n canon="destroço" gender="M" number="P"/>
+</word>
+<word id="word_305">
+<v canon="ir">
+<fin tense="COND" person="3P"/>
+</v>
+</word>
+<word id="word_306">
+<v canon="cair">
+<inf person="0-1-3S"/>
+</v>
+</word>
+<word id="word_308">
+<n canon="sn" gender="M" number="S"/>
+</word>
+</words>

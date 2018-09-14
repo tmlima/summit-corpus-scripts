@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!ELEMENT words (word*)>
+<!ELEMENT word (#PCDATA)>
+<!ATTLIST word id ID #REQUIRED>
+<!ATTLIST word starttime CDATA #IMPLIED>
+<!ATTLIST word endtime CDATA #IMPLIED>

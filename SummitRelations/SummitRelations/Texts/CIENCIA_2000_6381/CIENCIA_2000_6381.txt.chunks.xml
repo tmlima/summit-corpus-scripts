@@ -1,0 +1,739 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<text>
+<paragraph id="paragraph_1">
+<sentence id="sentence_1" span="word_1..word_31">
+<chunk id="chunk_1" ext="sta" form="fcl" span="word_1..word_30">
+<chunk id="chunk_2" ext="advl" form="pp" span="word_1..word_9">
+<chunk id="chunk_3" ext="h" form="prp" span="word_1">
+</chunk>
+<chunk id="chunk_4" ext="p" form="np" span="word_2..word_9">
+<chunk id="chunk_5" ext="n" form="art" span="word_2">
+</chunk>
+<chunk id="chunk_6" ext="h" form="n" span="word_3">
+</chunk>
+<chunk id="chunk_7" ext="n" form="pp" span="word_4..word_9">
+<chunk id="chunk_8" ext="h" form="prp" span="word_4">
+</chunk>
+<chunk id="chunk_9" ext="p" form="np" span="word_5..word_9">
+<chunk id="chunk_10" ext="n" form="art" span="word_5">
+</chunk>
+<chunk id="chunk_11" ext="h" form="n" span="word_6">
+</chunk>
+<chunk id="chunk_12" ext="n" form="pp" span="word_7..word_9">
+<chunk id="chunk_13" ext="h" form="prp" span="word_7">
+</chunk>
+<chunk id="chunk_14" ext="p" form="np" span="word_8..word_9">
+<chunk id="chunk_15" ext="n" form="art" span="word_8">
+</chunk>
+<chunk id="chunk_16" ext="h" form="n" span="word_9">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_17" ext="advl" form="pp" span="word_11..word_14">
+<chunk id="chunk_18" ext="h" form="prp" span="word_11">
+</chunk>
+<chunk id="chunk_19" ext="p" form="np" span="word_12..word_14">
+<chunk id="chunk_20" ext="n" form="art" span="word_12">
+</chunk>
+<chunk id="chunk_21" ext="h" form="n" span="word_13">
+</chunk>
+<chunk id="chunk_22" ext="n" form="adj" span="word_14">
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_23" ext="subj" form="np" span="word_16..word_17">
+<chunk id="chunk_24" ext="n" form="art" span="word_16">
+</chunk>
+<chunk id="chunk_25" ext="h" form="prop" span="word_17">
+</chunk>
+</chunk>
+<chunk id="chunk_26" ext="p" form="v_fin" span="word_18">
+</chunk>
+<chunk id="chunk_27" ext="advl" form="acl" span="word_19..word_24">
+<chunk id="chunk_28" ext="com" form="adv" span="word_19">
+</chunk>
+<chunk id="chunk_29" ext="subj" form="np" span="word_20..word_24">
+<chunk id="chunk_30" ext="n" form="adj" span="word_20">
+</chunk>
+<chunk id="chunk_31" ext="h" form="n" span="word_21">
+</chunk>
+<chunk id="chunk_32" ext="n" form="pp" span="word_22..word_24">
+<chunk id="chunk_33" ext="h" form="prp" span="word_22">
+</chunk>
+<chunk id="chunk_34" ext="p" form="np" span="word_23..word_24">
+<chunk id="chunk_35" ext="n" form="art" span="word_23">
+</chunk>
+<chunk id="chunk_36" ext="h" form="prop" span="word_24">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_37" ext="advl" form="pp" span="word_25..word_30">
+<chunk id="chunk_38" ext="h" form="prp" span="word_25">
+</chunk>
+<chunk id="chunk_39" ext="p" form="icl" span="word_26..word_30">
+<chunk id="chunk_40" ext="advl" form="adv" span="word_26">
+</chunk>
+<chunk id="chunk_41" ext="p" form="v_inf" span="word_27">
+</chunk>
+<chunk id="chunk_42" ext="acc" form="np" span="word_28..word_30">
+<chunk id="chunk_43" ext="h" form="n" span="word_28">
+</chunk>
+<chunk id="chunk_44" ext="n" form="pp" span="word_29..word_30">
+<chunk id="chunk_45" ext="h" form="prp" span="word_29">
+</chunk>
+<chunk id="chunk_46" ext="p" form="n" span="word_30">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</sentence>
+<sentence id="sentence_2" span="word_32..word_48">
+<chunk id="chunk_47" ext="sta" form="fcl" span="word_32..word_47">
+<chunk id="chunk_48" ext="subj" form="np" span="word_32..word_33">
+<chunk id="chunk_49" ext="n" form="art" span="word_32">
+</chunk>
+<chunk id="chunk_50" ext="h" form="prop" span="word_33">
+</chunk>
+</chunk>
+<chunk id="chunk_51" ext="p" form="v_fin" span="word_34">
+</chunk>
+<chunk id="chunk_52" ext="advl" form="pp" span="word_36..word_39">
+<chunk id="chunk_53" ext="h" form="prp" span="word_36">
+</chunk>
+<chunk id="chunk_54" ext="p" form="np" span="word_37..word_39">
+<chunk id="chunk_55" ext="h" form="n" span="word_37">
+</chunk>
+<chunk id="chunk_56" ext="n" form="pp" span="word_38..word_39">
+<chunk id="chunk_57" ext="h" form="prp" span="word_38">
+</chunk>
+<chunk id="chunk_58" ext="p" form="num" span="word_39">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_59" ext="acc" form="np" span="word_41..word_47">
+<chunk id="chunk_60" ext="h" form="n" span="word_41">
+</chunk>
+<chunk id="chunk_61" ext="n" form="ap" span="word_42..word_47">
+<chunk id="chunk_62" ext="h" form="adj" span="word_42">
+</chunk>
+<chunk id="chunk_63" ext="a" form="pp" span="word_43..word_47">
+<chunk id="chunk_64" ext="h" form="prp" span="word_43">
+</chunk>
+<chunk id="chunk_65" ext="p" form="np" span="word_44..word_47">
+<chunk id="chunk_66" ext="n" form="art" span="word_44">
+</chunk>
+<chunk id="chunk_67" ext="h" form="n" span="word_45">
+</chunk>
+<chunk id="chunk_68" ext="n" form="pp" span="word_46..word_47">
+<chunk id="chunk_69" ext="h" form="prp" span="word_46">
+</chunk>
+<chunk id="chunk_70" ext="p" form="n" span="word_47">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</sentence>
+<sentence id="sentence_3" span="word_49..word_80">
+<chunk id="chunk_71" ext="sta" form="cu" span="word_49..word_79">
+<chunk id="chunk_72" ext="cjt" form="fcl" span="word_49..word_70">
+<chunk id="chunk_73" ext="subj" form="np" span="word_49..word_50">
+<chunk id="chunk_74" ext="n" form="art" span="word_49">
+</chunk>
+<chunk id="chunk_75" ext="h" form="n" span="word_50">
+</chunk>
+</chunk>
+<chunk id="chunk_76" ext="pred" form="v_pcp" span="word_52">
+</chunk>
+<chunk id="chunk_77" ext="pass" form="pp" span="word_53..word_55">
+<chunk id="chunk_78" ext="h" form="prp" span="word_53">
+</chunk>
+<chunk id="chunk_79" ext="p" form="np" span="word_54..word_55">
+<chunk id="chunk_80" ext="n" form="art" span="word_54">
+</chunk>
+<chunk id="chunk_81" ext="h" form="prop" span="word_55">
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_82" ext="app" form="cu" span="word_57..word_59">
+<chunk id="chunk_83" ext="cjt" form="prop" span="word_57">
+</chunk>
+<chunk id="chunk_84" ext="co" form="conj_c" span="word_58">
+</chunk>
+<chunk id="chunk_85" ext="cjt" form="prop" span="word_59">
+</chunk>
+</chunk>
+<chunk id="chunk_86" ext="p" form="v_fin" span="word_61">
+</chunk>
+<chunk id="chunk_87" ext="acc" form="np" span="word_62..word_65">
+<chunk id="chunk_88" ext="n" form="art" span="word_62">
+</chunk>
+<chunk id="chunk_89" ext="h" form="n" span="word_63">
+</chunk>
+<chunk id="chunk_90" ext="n" form="pp" span="word_64..word_65">
+<chunk id="chunk_91" ext="h" form="prp" span="word_64">
+</chunk>
+<chunk id="chunk_92" ext="p" form="pron_indp" span="word_65">
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_93" ext="acc" form="pron_pers" span="word_66">
+</chunk>
+<chunk id="chunk_94" ext="subj" form="n" span="word_67">
+</chunk>
+<chunk id="chunk_95" ext="advl" form="adv" span="word_68">
+</chunk>
+<chunk id="chunk_96" ext="p" form="v_fin" span="word_69">
+</chunk>
+<chunk id="chunk_97" ext="sc" form="adj" span="word_70">
+</chunk>
+</chunk>
+<chunk id="chunk_98" ext="co" form="conj_c" span="word_72">
+</chunk>
+<chunk id="chunk_99" ext="cjt" form="fcl" span="word_73..word_79">
+<chunk id="chunk_100" ext="subj" form="np" span="word_73..word_77">
+<chunk id="chunk_101" ext="n" form="art" span="word_73">
+</chunk>
+<chunk id="chunk_102" ext="h" form="n" span="word_74">
+</chunk>
+<chunk id="chunk_103" ext="n" form="pp" span="word_75..word_77">
+<chunk id="chunk_104" ext="h" form="prp" span="word_75">
+</chunk>
+<chunk id="chunk_105" ext="p" form="np" span="word_76..word_77">
+<chunk id="chunk_106" ext="n" form="art" span="word_76">
+</chunk>
+<chunk id="chunk_107" ext="h" form="n" span="word_77">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_108" ext="p" form="vp" span="word_78..word_79">
+<chunk id="chunk_109" ext="aux" form="v_fin" span="word_78">
+</chunk>
+<chunk id="chunk_110" ext="mv" form="v_inf" span="word_79">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</sentence>
+<sentence id="sentence_4" span="word_81..word_85">
+<chunk id="chunk_111" ext="sta" form="fcl" span="word_81..word_84">
+<chunk id="chunk_112" ext="advl" form="adv" span="word_81">
+</chunk>
+<chunk id="chunk_113" ext="p" form="v_fin" span="word_83">
+</chunk>
+<chunk id="chunk_114" ext="acc" form="n" span="word_84">
+</chunk>
+</chunk>
+</sentence>
+<sentence id="sentence_5" span="word_86..word_107">
+<chunk id="chunk_115" ext="sta" form="fcl" span="word_86..word_106">
+<chunk id="chunk_116" ext="subj" form="np" span="word_86..word_87">
+<chunk id="chunk_117" ext="n" form="art" span="word_86">
+</chunk>
+<chunk id="chunk_118" ext="h" form="n" span="word_87">
+</chunk>
+</chunk>
+<chunk id="chunk_119" ext="advl" form="adv" span="word_88">
+</chunk>
+<chunk id="chunk_120" ext="p" form="vp" span="word_89..word_91">
+<chunk id="chunk_121" ext="aux" form="v_fin" span="word_89">
+</chunk>
+<chunk id="chunk_122" ext="aux" form="v_inf" span="word_90">
+</chunk>
+<chunk id="chunk_123" ext="mv" form="v_pcp" span="word_91">
+</chunk>
+</chunk>
+<chunk id="chunk_124" ext="advl" form="pp" span="word_92..word_94">
+<chunk id="chunk_125" ext="h" form="prp" span="word_92">
+</chunk>
+<chunk id="chunk_126" ext="p" form="np" span="word_93..word_94">
+<chunk id="chunk_127" ext="h" form="n" span="word_93">
+</chunk>
+<chunk id="chunk_128" ext="n" form="v_pcp" span="word_94">
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_129" ext="piv" form="pp" span="word_95..word_99">
+<chunk id="chunk_130" ext="h" form="prp" span="word_95">
+</chunk>
+<chunk id="chunk_131" ext="p" form="np" span="word_96..word_99">
+<chunk id="chunk_132" ext="h" form="n" span="word_96">
+</chunk>
+<chunk id="chunk_133" ext="n" form="adj" span="word_97">
+</chunk>
+<chunk id="chunk_134" ext="n" form="pp" span="word_98..word_99">
+<chunk id="chunk_135" ext="h" form="prp" span="word_98">
+</chunk>
+<chunk id="chunk_136" ext="p" form="pron_indp" span="word_99">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_137" ext="subj" form="np" span="word_100..word_104">
+<chunk id="chunk_138" ext="n" form="art" span="word_100">
+</chunk>
+<chunk id="chunk_139" ext="h" form="n" span="word_101">
+</chunk>
+<chunk id="chunk_140" ext="n" form="pp" span="word_102..word_104">
+<chunk id="chunk_141" ext="h" form="prp" span="word_102">
+</chunk>
+<chunk id="chunk_142" ext="p" form="np" span="word_103..word_104">
+<chunk id="chunk_143" ext="n" form="art" span="word_103">
+</chunk>
+<chunk id="chunk_144" ext="h" form="n" span="word_104">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_145" ext="p" form="vp" span="word_105..word_106">
+<chunk id="chunk_146" ext="aux" form="v_fin" span="word_105">
+</chunk>
+<chunk id="chunk_147" ext="mv" form="v_pcp" span="word_106">
+</chunk>
+</chunk>
+</chunk>
+</sentence>
+<sentence id="sentence_6" span="word_108..word_122">
+<chunk id="chunk_148" ext="sta" form="fcl" span="word_108..word_121">
+<chunk id="chunk_149" ext="subj" form="np" span="word_108..word_109">
+<chunk id="chunk_150" ext="n" form="art" span="word_108">
+</chunk>
+<chunk id="chunk_151" ext="h" form="prop" span="word_109">
+</chunk>
+</chunk>
+<chunk id="chunk_152" ext="p" form="v_fin" span="word_110">
+</chunk>
+<chunk id="chunk_153" ext="sc" form="np" span="word_111..word_121">
+<chunk id="chunk_154" ext="n" form="art" span="word_111">
+</chunk>
+<chunk id="chunk_155" ext="n" form="adj" span="word_112">
+</chunk>
+<chunk id="chunk_156" ext="h" form="n" span="word_113">
+</chunk>
+<chunk id="chunk_157" ext="n" form="fcl" span="word_114..word_121">
+<chunk id="chunk_158" ext="subj" form="pron_indp" span="word_114">
+</chunk>
+<chunk id="chunk_159" ext="acc" form="pron_pers" span="word_115">
+</chunk>
+<chunk id="chunk_160" ext="p" form="v_fin" span="word_116">
+</chunk>
+<chunk id="chunk_161" ext="piv" form="pp" span="word_117..word_121">
+<chunk id="chunk_162" ext="h" form="prp" span="word_117">
+</chunk>
+<chunk id="chunk_163" ext="p" form="icl" span="word_118..word_121">
+<chunk id="chunk_164" ext="p" form="v_inf" span="word_118">
+</chunk>
+<chunk id="chunk_165" ext="acc" form="np" span="word_119..word_121">
+<chunk id="chunk_166" ext="n" form="art" span="word_119">
+</chunk>
+<chunk id="chunk_167" ext="h" form="n" span="word_120">
+</chunk>
+<chunk id="chunk_168" ext="n" form="adj" span="word_121">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</sentence>
+<sentence id="sentence_7" span="word_123..word_146">
+<chunk id="chunk_169" ext="sta" form="fcl" span="word_123..word_145">
+<chunk id="chunk_170" ext="subj" form="np" span="word_123..word_130">
+<chunk id="chunk_171" ext="n" form="art" span="word_123">
+</chunk>
+<chunk id="chunk_172" ext="h" form="n" span="word_124">
+</chunk>
+<chunk id="chunk_173" ext="n" form="pp" span="word_125..word_130">
+<chunk id="chunk_174" ext="h" form="prp" span="word_125">
+</chunk>
+<chunk id="chunk_175" ext="p" form="np" span="word_126..word_130">
+<chunk id="chunk_176" ext="n" form="art" span="word_126">
+</chunk>
+<chunk id="chunk_177" ext="h" form="n" span="word_127">
+</chunk>
+<chunk id="chunk_178" ext="n" form="pp" span="word_128..word_130">
+<chunk id="chunk_179" ext="h" form="prp" span="word_128">
+</chunk>
+<chunk id="chunk_180" ext="p" form="np" span="word_129..word_130">
+<chunk id="chunk_181" ext="n" form="art" span="word_129">
+</chunk>
+<chunk id="chunk_182" ext="h" form="n" span="word_130">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_183" ext="app" form="prop" span="word_132">
+</chunk>
+<chunk id="chunk_184" ext="p" form="v_fin" span="word_134">
+</chunk>
+<chunk id="chunk_185" ext="acc" form="fcl" span="word_135..word_145">
+<chunk id="chunk_186" ext="sub" form="conj_s" span="word_135">
+</chunk>
+<chunk id="chunk_187" ext="subj" form="np" span="word_136..word_137">
+<chunk id="chunk_188" ext="n" form="art" span="word_136">
+</chunk>
+<chunk id="chunk_189" ext="h" form="n" span="word_137">
+</chunk>
+</chunk>
+<chunk id="chunk_190" ext="p" form="v_fin" span="word_138">
+</chunk>
+<chunk id="chunk_191" ext="sc" form="adj" span="word_139">
+</chunk>
+<chunk id="chunk_192" ext="n" form="pp" span="word_140..word_145">
+<chunk id="chunk_193" ext="h" form="prp" span="word_140">
+</chunk>
+<chunk id="chunk_194" ext="p" form="np" span="word_141..word_145">
+<chunk id="chunk_195" ext="n" form="art" span="word_141">
+</chunk>
+<chunk id="chunk_196" ext="h" form="n" span="word_142">
+</chunk>
+<chunk id="chunk_197" ext="n" form="adj" span="word_143">
+</chunk>
+<chunk id="chunk_198" ext="n" form="pp" span="word_144..word_145">
+<chunk id="chunk_199" ext="h" form="prp" span="word_144">
+</chunk>
+<chunk id="chunk_200" ext="p" form="n" span="word_145">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</sentence>
+<sentence id="sentence_8" span="word_147..word_201">
+<chunk id="chunk_201" ext="sta" form="fcl" span="word_147..word_194">
+<chunk id="chunk_202" ext="advl" form="pp" span="word_147..word_152">
+<chunk id="chunk_203" ext="h" form="prp" span="word_147">
+</chunk>
+<chunk id="chunk_204" ext="p" form="np" span="word_148..word_152">
+<chunk id="chunk_205" ext="n" form="art" span="word_148">
+</chunk>
+<chunk id="chunk_206" ext="h" form="n" span="word_149">
+</chunk>
+<chunk id="chunk_207" ext="n" form="pp" span="word_150..word_152">
+<chunk id="chunk_208" ext="h" form="prp" span="word_150">
+</chunk>
+<chunk id="chunk_209" ext="p" form="np" span="word_151..word_152">
+<chunk id="chunk_210" ext="n" form="art" span="word_151">
+</chunk>
+<chunk id="chunk_211" ext="h" form="n" span="word_152">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_212" ext="subj" form="np" span="word_154..word_155">
+<chunk id="chunk_213" ext="n" form="art" span="word_154">
+</chunk>
+<chunk id="chunk_214" ext="h" form="prop" span="word_155">
+</chunk>
+</chunk>
+<chunk id="chunk_215" ext="npred" form="prop" span="word_156">
+</chunk>
+<chunk id="chunk_216" ext="pred" form="np" span="word_158..word_169">
+<chunk id="chunk_217" ext="h" form="n" span="word_158">
+</chunk>
+<chunk id="chunk_218" ext="n" form="fcl" span="word_159..word_169">
+<chunk id="chunk_219" ext="subj" form="pron_indp" span="word_159">
+</chunk>
+<chunk id="chunk_220" ext="p" form="v_fin" span="word_160">
+</chunk>
+<chunk id="chunk_221" ext="acc" form="np" span="word_161..word_163">
+<chunk id="chunk_222" ext="n" form="art" span="word_161">
+</chunk>
+<chunk id="chunk_223" ext="h" form="n" span="word_162">
+</chunk>
+<chunk id="chunk_224" ext="n" form="adj" span="word_163">
+</chunk>
+</chunk>
+<chunk id="chunk_225" ext="piv" form="pp" span="word_164..word_169">
+<chunk id="chunk_226" ext="h" form="prp" span="word_164">
+</chunk>
+<chunk id="chunk_227" ext="p" form="np" span="word_165..word_169">
+<chunk id="chunk_228" ext="h" form="n" span="word_165">
+</chunk>
+<chunk id="chunk_229" ext="n" form="adj" span="word_166">
+</chunk>
+<chunk id="chunk_230" ext="n" form="pp" span="word_167..word_169">
+<chunk id="chunk_231" ext="h" form="prp" span="word_167">
+</chunk>
+<chunk id="chunk_232" ext="p" form="np" span="word_168..word_169">
+<chunk id="chunk_233" ext="n" form="art" span="word_168">
+</chunk>
+<chunk id="chunk_234" ext="h" form="n" span="word_169">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_235" ext="p" form="v_fin" span="word_171">
+</chunk>
+<chunk id="chunk_236" ext="acc" form="np" span="word_172..word_176">
+<chunk id="chunk_237" ext="n" form="art" span="word_172">
+</chunk>
+<chunk id="chunk_238" ext="h" form="n" span="word_173">
+</chunk>
+<chunk id="chunk_239" ext="n" form="pp" span="word_174..word_176">
+<chunk id="chunk_240" ext="h" form="prp" span="word_174">
+</chunk>
+<chunk id="chunk_241" ext="p" form="np" span="word_175..word_176">
+<chunk id="chunk_242" ext="n" form="art" span="word_175">
+</chunk>
+<chunk id="chunk_243" ext="h" form="n" span="word_176">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_244" ext="sta" form="icl" span="word_178..word_191">
+<chunk id="chunk_245" ext="icl_advl" form="v_ger" span="word_178">
+</chunk>
+<chunk id="chunk_246" ext="acc" form="fcl" span="word_179..word_191">
+<chunk id="chunk_247" ext="sub" form="conj_s" span="word_179">
+</chunk>
+<chunk id="chunk_248" ext="subj" form="np" span="word_180..word_187">
+<chunk id="chunk_249" ext="n" form="art" span="word_180">
+</chunk>
+<chunk id="chunk_250" ext="h" form="n" span="word_181">
+</chunk>
+<chunk id="chunk_251" ext="n" form="pp" span="word_182..word_187">
+<chunk id="chunk_252" ext="h" form="prp" span="word_182">
+</chunk>
+<chunk id="chunk_253" ext="p" form="np" span="word_183..word_187">
+<chunk id="chunk_254" ext="n" form="art" span="word_183">
+</chunk>
+<chunk id="chunk_255" ext="h" form="n" span="word_184">
+</chunk>
+<chunk id="chunk_256" ext="n" form="pp" span="word_185..word_187">
+<chunk id="chunk_257" ext="h" form="prp" span="word_185">
+</chunk>
+<chunk id="chunk_258" ext="p" form="np" span="word_186..word_187">
+<chunk id="chunk_259" ext="n" form="art" span="word_186">
+</chunk>
+<chunk id="chunk_260" ext="h" form="n" span="word_187">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_261" ext="advl" form="adv" span="word_188">
+</chunk>
+<chunk id="chunk_262" ext="p" form="vp" span="word_189..word_191">
+<chunk id="chunk_263" ext="aux" form="v_fin" span="word_189">
+</chunk>
+<chunk id="chunk_264" ext="aux" form="v_inf" span="word_190">
+</chunk>
+<chunk id="chunk_265" ext="mv" form="v_pcp" span="word_191">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_266" ext="sc" form="acl" span="word_192..word_194">
+<chunk id="chunk_267" ext="sc" form="acl" span="word_192..word_194">
+<chunk id="chunk_268" ext="prd" form="adv" span="word_192">
+</chunk>
+<chunk id="chunk_269" ext="sc" form="np" span="word_193..word_194">
+<chunk id="chunk_270" ext="h" form="n" span="word_193">
+</chunk>
+<chunk id="chunk_271" ext="n" form="v_pcp" span="word_194">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_272" ext="co" form="conj_c" span="word_195">
+</chunk>
+<chunk id="chunk_273" ext="sta" form="fcl" span="word_196..word_200">
+<chunk id="chunk_274" ext="advl" form="adv" span="word_196">
+</chunk>
+<chunk id="chunk_275" ext="advl" form="adv" span="word_198">
+</chunk>
+<chunk id="chunk_276" ext="p" form="v_fin" span="word_199">
+</chunk>
+<chunk id="chunk_277" ext="sc" form="adj" span="word_200">
+</chunk>
+</chunk>
+</sentence>
+<sentence id="sentence_9" span="word_202..word_240">
+<chunk id="chunk_278" ext="sta" form="fcl" span="word_202..word_239">
+<chunk id="chunk_279" ext="pred" form="ap" span="word_202..word_203">
+<chunk id="chunk_280" ext="a" form="adv" span="word_202">
+</chunk>
+<chunk id="chunk_281" ext="h" form="adj" span="word_203">
+</chunk>
+</chunk>
+<chunk id="chunk_282" ext="n" form="pp" span="word_204..word_206">
+<chunk id="chunk_283" ext="h" form="prp" span="word_204">
+</chunk>
+<chunk id="chunk_284" ext="p" form="np" span="word_205..word_206">
+<chunk id="chunk_285" ext="n" form="art" span="word_205">
+</chunk>
+<chunk id="chunk_286" ext="h" form="n" span="word_206">
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_287" ext="pred" form="np" span="word_208..word_211">
+<chunk id="chunk_288" ext="n" form="art" span="word_208">
+</chunk>
+<chunk id="chunk_289" ext="h" form="n" span="word_209">
+</chunk>
+<chunk id="chunk_290" ext="n" form="pp" span="word_210..word_211">
+<chunk id="chunk_291" ext="h" form="prp" span="word_210">
+</chunk>
+<chunk id="chunk_292" ext="p" form="n" span="word_211">
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_293" ext="advl" form="adv" span="word_212">
+</chunk>
+<chunk id="chunk_294" ext="p" form="vp" span="word_213..word_215">
+<chunk id="chunk_295" ext="aux" form="v_fin" span="word_213">
+</chunk>
+<chunk id="chunk_296" ext="aux" form="v_inf" span="word_214">
+</chunk>
+<chunk id="chunk_297" ext="mv" form="v_pcp" span="word_215">
+</chunk>
+</chunk>
+<chunk id="chunk_298" ext="pass" form="pp" span="word_216..word_233">
+<chunk id="chunk_299" ext="h" form="prp" span="word_216">
+</chunk>
+<chunk id="chunk_300" ext="p" form="np" span="word_217..word_233">
+<chunk id="chunk_301" ext="h" form="n" span="word_217">
+</chunk>
+<chunk id="chunk_302" ext="n" form="fcl" span="word_218..word_233">
+<chunk id="chunk_303" ext="acc" form="pron_indp" span="word_218">
+</chunk>
+<chunk id="chunk_304" ext="p" form="v_fin" span="word_219">
+</chunk>
+<chunk id="chunk_305" ext="advl" form="pp" span="word_221..word_226">
+<chunk id="chunk_306" ext="h" form="prp" span="word_221">
+</chunk>
+<chunk id="chunk_307" ext="p" form="np" span="word_222..word_226">
+<chunk id="chunk_308" ext="n" form="art" span="word_222">
+</chunk>
+<chunk id="chunk_309" ext="h" form="n" span="word_223">
+</chunk>
+<chunk id="chunk_310" ext="n" form="pp" span="word_224..word_226">
+<chunk id="chunk_311" ext="h" form="prp" span="word_224">
+</chunk>
+<chunk id="chunk_312" ext="p" form="np" span="word_225..word_226">
+<chunk id="chunk_313" ext="h" form="n" span="word_225">
+</chunk>
+<chunk id="chunk_314" ext="n" form="adj" span="word_226">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_315" ext="sta" form="icl" span="word_228..word_233">
+<chunk id="chunk_316" ext="icl_acc" form="v_inf" span="word_228">
+</chunk>
+<chunk id="chunk_317" ext="acc" form="np" span="word_229..word_230">
+<chunk id="chunk_318" ext="n" form="art" span="word_229">
+</chunk>
+<chunk id="chunk_319" ext="h" form="n" span="word_230">
+</chunk>
+</chunk>
+<chunk id="chunk_320" ext="piv" form="pp" span="word_231..word_233">
+<chunk id="chunk_321" ext="h" form="prp" span="word_231">
+</chunk>
+<chunk id="chunk_322" ext="p" form="np" span="word_232..word_233">
+<chunk id="chunk_323" ext="n" form="pron_det" span="word_232">
+</chunk>
+<chunk id="chunk_324" ext="h" form="n" span="word_233">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_325" ext="p" form="v_fin" span="word_235">
+</chunk>
+<chunk id="chunk_326" ext="acc" form="icl" span="word_236..word_239">
+<chunk id="chunk_327" ext="p" form="v_inf" span="word_236">
+</chunk>
+<chunk id="chunk_328" ext="sc" form="pp" span="word_237..word_239">
+<chunk id="chunk_329" ext="h" form="prp" span="word_237">
+</chunk>
+<chunk id="chunk_330" ext="p" form="np" span="word_238..word_239">
+<chunk id="chunk_331" ext="n" form="art" span="word_238">
+</chunk>
+<chunk id="chunk_332" ext="h" form="prop" span="word_239">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</sentence>
+<sentence id="sentence_10" span="word_241..word_258">
+<chunk id="chunk_333" ext="sta" form="fcl" span="word_241..word_257">
+<chunk id="chunk_334" ext="subj" form="np" span="word_241..word_242">
+<chunk id="chunk_335" ext="n" form="art" span="word_241">
+</chunk>
+<chunk id="chunk_336" ext="h" form="n" span="word_242">
+</chunk>
+</chunk>
+<chunk id="chunk_337" ext="p" form="vp" span="word_243..word_245">
+<chunk id="chunk_338" ext="aux" form="v_fin" span="word_243">
+</chunk>
+<chunk id="chunk_339" ext="aux" form="v_inf" span="word_244">
+</chunk>
+<chunk id="chunk_340" ext="mv" form="v_pcp" span="word_245">
+</chunk>
+</chunk>
+<chunk id="chunk_341" ext="advl" form="pp" span="word_246..word_252">
+<chunk id="chunk_342" ext="h" form="prp" span="word_246">
+</chunk>
+<chunk id="chunk_343" ext="p" form="np" span="word_247..word_252">
+<chunk id="chunk_344" ext="n" form="art" span="word_247">
+</chunk>
+<chunk id="chunk_345" ext="h" form="n" span="word_248">
+</chunk>
+<chunk id="chunk_346" ext="n" form="adj" span="word_249">
+</chunk>
+<chunk id="chunk_347" ext="n" form="pp" span="word_250..word_252">
+<chunk id="chunk_348" ext="h" form="prp" span="word_250">
+</chunk>
+<chunk id="chunk_349" ext="p" form="np" span="word_251..word_252">
+<chunk id="chunk_350" ext="n" form="art" span="word_251">
+</chunk>
+<chunk id="chunk_351" ext="h" form="prop" span="word_252">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+<chunk id="chunk_352" ext="advl" form="pp" span="word_254..word_257">
+<chunk id="chunk_353" ext="h" form="prp" span="word_254">
+</chunk>
+<chunk id="chunk_354" ext="p" form="np" span="word_255..word_257">
+<chunk id="chunk_355" ext="n" form="art" span="word_255">
+</chunk>
+<chunk id="chunk_356" ext="n" form="adj" span="word_256">
+</chunk>
+<chunk id="chunk_357" ext="h" form="n" span="word_257">
+</chunk>
+</chunk>
+</chunk>
+</chunk>
+</sentence>
+</paragraph>
+</text>

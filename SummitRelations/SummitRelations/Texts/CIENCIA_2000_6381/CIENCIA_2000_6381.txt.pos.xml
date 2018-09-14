@@ -1,0 +1,1073 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<words>
+<word id="word_1">
+<prp canon="após"/>
+</word>
+<word id="word_2">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_3">
+<n canon="anúncio" gender="M" number="S"/>
+</word>
+<word id="word_4">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_5">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_6">
+<n canon="sequenciamento" gender="M" number="S">
+  <secondary_n tag="DERS"/>
+</n>
+</word>
+<word id="word_7">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_8">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_9">
+<n canon="genoma" gender="F" number="S"/>
+</word>
+<word id="word_11">
+<prp canon="em">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_12">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_13">
+<n canon="semana" gender="F" number="S">
+  <secondary_n tag="dur"/>
+</n>
+</word>
+<word id="word_14">
+<adj canon="passado" gender="F" number="S"/>
+</word>
+<word id="word_16">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_17">
+<prop canon="França" gender="F" number="S">
+  <secondary_prop tag="civ"/>
+</prop>
+</word>
+<word id="word_18">
+<v canon="resistir">
+<fin tense="PR" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_19">
+<adv canon="como">
+  <secondary_adv tag="prp"/>
+  <secondary_adv tag="rel"/>
+</adv>
+</word>
+<word id="word_20">
+<adj canon="único" gender="M" number="S"/>
+</word>
+<word id="word_21">
+<n canon="país" gender="M" number="S">
+  <secondary_n tag="HH"/>
+  <secondary_n tag="civ"/>
+</n>
+</word>
+<word id="word_22">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_23">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_24">
+<prop canon="União_Européia" gender="F" number="S">
+  <secondary_prop tag="org"/>
+</prop>
+</word>
+<word id="word_25">
+<prp canon="a"/>
+</word>
+<word id="word_26">
+<adv canon="não"/>
+</word>
+<word id="word_27">
+<v canon="permitir">
+<inf person="0-1-3S"/>
+</v>
+</word>
+<word id="word_28">
+<n canon="patenteamento" gender="M" number="S">
+  <secondary_n tag="act"/>
+</n>
+</word>
+<word id="word_29">
+<prp canon="de"/>
+</word>
+<word id="word_30">
+<n canon="gene" gender="M" number="P">
+  <secondary_n tag="ac"/>
+</n>
+</word>
+<word id="word_32">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_33">
+<prop canon="UE" gender="M-F" number="S"/>
+</word>
+<word id="word_34">
+<v canon="adotar">
+<fin tense="PR" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_36">
+<prp canon="desde"/>
+</word>
+<word id="word_37">
+<n canon="junho" gender="M" number="S"/>
+</word>
+<word id="word_38">
+<prp canon="de"/>
+</word>
+<word id="word_39">
+<num canon="1998" gender="M-F" number="P">
+  <secondary_num tag="card"/>
+</num>
+</word>
+<word id="word_41">
+<n canon="diretiva" gender="F" number="S"/>
+</word>
+<word id="word_42">
+<adj canon="favorável" gender="M-F" number="S"/>
+</word>
+<word id="word_43">
+<prp canon="a">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_44">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_45">
+<n canon="patenteamento" gender="M" number="S">
+  <secondary_n tag="act"/>
+</n>
+</word>
+<word id="word_46">
+<prp canon="de"/>
+</word>
+<word id="word_47">
+<n canon="gene" gender="M" number="P">
+  <secondary_n tag="ac"/>
+</n>
+</word>
+<word id="word_49">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_50">
+<n canon="texto" gender="M" number="S"/>
+</word>
+<word id="word_52">
+<v canon="redigir">
+<pcp gender="M" number="S"/>
+</v>
+</word>
+<word id="word_53">
+<prp canon="por">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_54">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_55">
+<prop canon="Parlamento_Europeu" gender="M" number="S">
+  <secondary_prop tag="inst"/>
+</prop>
+</word>
+<word id="word_57">
+<prop canon="Comissão_Européia" gender="F" number="S">
+  <secondary_prop tag="org"/>
+</prop>
+</word>
+<word id="word_58">
+<conj canon="e">
+  <secondary_conj tag="c"/>
+  <secondary_conj tag="co-app"/>
+</conj>
+</word>
+<word id="word_59">
+<prop canon="Conselho_de_Ministros" gender="M" number="S">
+  <secondary_prop tag="org"/>
+</prop>
+</word>
+<word id="word_61">
+<v canon="utilizar">
+<fin tense="PR" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_62">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_63">
+<n canon="princípio" gender="M" number="S">
+  <secondary_n tag="temp"/>
+</n>
+</word>
+<word id="word_64">
+<prp canon="de"/>
+</word>
+<word id="word_65">
+<pron canon="que">
+<indp gender="M-F" number="S"/>
+  <secondary_pron tag="rel"/>
+</pron>
+</word>
+<word id="word_66">
+<pron canon="ele">
+<pers gender="M" number="3S" case="ACC"/>
+  <secondary_pron tag="-1"/>
+</pron>
+</word>
+<word id="word_67">
+<n canon="genoma" gender="F" number="S"/>
+</word>
+<word id="word_68">
+<adv canon="não"/>
+</word>
+<word id="word_69">
+<v canon="ser">
+<fin tense="PR" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_70">
+<adj canon="patenteável" gender="M-F" number="S"/>
+</word>
+<word id="word_72">
+<conj canon="mas">
+  <secondary_conj tag="c"/>
+  <secondary_conj tag="co-vfin"/>
+  <secondary_conj tag="co-fmc"/>
+</conj>
+</word>
+<word id="word_73">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_74">
+<n canon="sequência" gender="F" number="S"/>
+</word>
+<word id="word_75">
+<prp canon="de"/>
+</word>
+<word id="word_76">
+<art canon="um" gender="M" number="S">
+  <secondary_art tag="arti"/>
+</art>
+</word>
+<word id="word_77">
+<n canon="gene" gender="M" number="S">
+  <secondary_n tag="ac"/>
+</n>
+</word>
+<word id="word_78">
+<v canon="poder">
+<fin tense="PR" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_79">
+
+</word>
+<word id="word_81">
+<adv canon="no_entanto">
+  <secondary_adv tag="kc"/>
+</adv>
+</word>
+<word id="word_83">
+<v canon="haver">
+<fin tense="PR" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_84">
+<n canon="restrição" gender="F" number="P">
+  <secondary_n tag="act"/>
+</n>
+</word>
+<word id="word_86">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_87">
+<n canon="patenteamento" gender="M" number="S">
+  <secondary_n tag="act"/>
+</n>
+</word>
+<word id="word_88">
+<adv canon="só"/>
+</word>
+<word id="word_89">
+<v canon="poder">
+<fin tense="PR" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_90">
+<v canon="ser">
+<inf person="0-1-3S"/>
+</v>
+</word>
+<word id="word_91">
+<v canon="aplicar">
+<pcp gender="M" number="S"/>
+</v>
+</word>
+<word id="word_92">
+<prp canon="em"/>
+</word>
+<word id="word_93">
+<n canon="pesquisa" gender="F" number="P">
+  <secondary_n tag="act-d"/>
+  <secondary_n tag="occ"/>
+</n>
+</word>
+<word id="word_94">
+<v canon="ligar">
+<pcp gender="F" number="P"/>
+</v>
+</word>
+<word id="word_95">
+<prp canon="a"/>
+</word>
+<word id="word_96">
+<n canon="doença" gender="F" number="P">
+  <secondary_n tag="sick"/>
+</n>
+</word>
+<word id="word_97">
+<adj canon="genético" gender="F" number="P"/>
+</word>
+<word id="word_98">
+<prp canon="em"/>
+</word>
+<word id="word_99">
+<pron canon="que">
+<indp gender="M-F" number="S"/>
+  <secondary_pron tag="rel"/>
+</pron>
+</word>
+<word id="word_100">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_101">
+<n canon="funcionamento" gender="M" number="S"/>
+</word>
+<word id="word_102">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_103">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_104">
+<n canon="gene" gender="M" number="S">
+  <secondary_n tag="ac"/>
+</n>
+</word>
+<word id="word_105">
+<v canon="ser">
+<fin tense="PR" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_106">
+<v canon="detalhar">
+<pcp gender="M" number="S"/>
+</v>
+</word>
+<word id="word_108">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_109">
+<prop canon="França" gender="F" number="S">
+  <secondary_prop tag="civ"/>
+</prop>
+</word>
+<word id="word_110">
+<v canon="ser">
+<fin tense="PR" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_111">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_112">
+<adj canon="único" gender="M" number="S"/>
+</word>
+<word id="word_113">
+<n canon="país" gender="M" number="S">
+  <secondary_n tag="HH"/>
+  <secondary_n tag="civ"/>
+</n>
+</word>
+<word id="word_114">
+<pron canon="que">
+<indp gender="M-F" number="S"/>
+  <secondary_pron tag="rel"/>
+</pron>
+</word>
+<word id="word_115">
+<pron canon="se">
+<pers gender="M-F" number="3S" case="ACC-DAT"/>
+  <secondary_pron tag="refl"/>
+</pron>
+</word>
+<word id="word_116">
+<v canon="recusar">
+<fin tense="PR" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_117">
+<prp canon="a"/>
+</word>
+<word id="word_118">
+<v canon="aceitar">
+<inf person="0-1-3S"/>
+</v>
+</word>
+<word id="word_119">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_120">
+<n canon="determinação" gender="F" number="S"/>
+</word>
+<word id="word_121">
+<adj canon="europeu" gender="F" number="S"/>
+</word>
+<word id="word_123">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_124">
+<n canon="ministra" gender="F" number="S">
+  <secondary_n tag="Hprof"/>
+</n>
+</word>
+<word id="word_125">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_126">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_127">
+<n canon="justiça" gender="F" number="S">
+  <secondary_n tag="inst"/>
+  <secondary_n tag="am"/>
+</n>
+</word>
+<word id="word_128">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_129">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_130">
+<n canon="país" gender="M" number="S">
+  <secondary_n tag="HH"/>
+  <secondary_n tag="civ"/>
+</n>
+</word>
+<word id="word_132">
+<prop canon="Elisabeth_Guigou" gender="M-F" number="S">
+  <secondary_prop tag="org"/>
+</prop>
+</word>
+<word id="word_134">
+<v canon="dizer">
+<fin tense="PS" person="1-3S" mode="IND"/>
+</v>
+</word>
+<word id="word_135">
+<conj canon="que">
+  <secondary_conj tag="s"/>
+</conj>
+</word>
+<word id="word_136">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_137">
+<n canon="norma" gender="F" number="S">
+  <secondary_n tag="ac"/>
+</n>
+</word>
+<word id="word_138">
+<v canon="ser">
+<fin tense="PR" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_139">
+<adj canon="incompatível" gender="M-F" number="S"/>
+</word>
+<word id="word_140">
+<prp canon="com"/>
+</word>
+<word id="word_141">
+<art canon="o" gender="F" number="P">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_142">
+<n canon="lei" gender="F" number="P"/>
+</word>
+<word id="word_143">
+<adj canon="francês" gender="F" number="P"/>
+</word>
+<word id="word_144">
+<prp canon="de"/>
+</word>
+<word id="word_145">
+<n canon="bioética" gender="F" number="S">
+  <secondary_n tag="DERP"/>
+</n>
+</word>
+<word id="word_147">
+<prp canon="em">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_148">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_149">
+<n canon="início" gender="M" number="S">
+  <secondary_n tag="act"/>
+  <secondary_n tag="temp"/>
+</n>
+</word>
+<word id="word_150">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_151">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_152">
+<n canon="mês" gender="M" number="S">
+  <secondary_n tag="unit"/>
+  <secondary_n tag="per"/>
+  <secondary_n tag="dur"/>
+</n>
+</word>
+<word id="word_154">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_155">
+<prop canon="CCNE" gender="M-F" number="S"/>
+</word>
+<word id="word_156">
+<prop canon="Comitê_Consultivo_Nacional_de_Ética" gender="M" number="S">
+  <secondary_prop tag="inst"/>
+</prop>
+</word>
+<word id="word_158">
+<n canon="órgão" gender="M" number="S">
+  <secondary_n tag="cc-r"/>
+  <secondary_n tag="inst"/>
+  <secondary_n tag="tool"/>
+  <secondary_n tag="tool-mus"/>
+</n>
+</word>
+<word id="word_159">
+<pron canon="que">
+<indp gender="M-F" number="S"/>
+  <secondary_pron tag="rel"/>
+</pron>
+</word>
+<word id="word_160">
+<v canon="orientar">
+<fin tense="PR" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_161">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_162">
+<n canon="governo" gender="M" number="S">
+  <secondary_n tag="HH"/>
+</n>
+</word>
+<word id="word_163">
+<adj canon="francês" gender="M" number="S"/>
+</word>
+<word id="word_164">
+<prp canon="sobre"/>
+</word>
+<word id="word_165">
+<n canon="aspecto" gender="M" number="P">
+  <secondary_n tag="ac-cat"/>
+</n>
+</word>
+<word id="word_166">
+<adj canon="ético" gender="M" number="P"/>
+</word>
+<word id="word_167">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_168">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_169">
+<n canon="biotecnologia" gender="F" number="S">
+  <secondary_n tag="domain"/>
+</n>
+</word>
+<word id="word_171">
+<v canon="reforçar">
+<fin tense="PS" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_172">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_173">
+<n canon="posição" gender="F" number="S">
+  <secondary_n tag="act"/>
+</n>
+</word>
+<word id="word_174">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_175">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_176">
+<n canon="ministra" gender="F" number="S">
+  <secondary_n tag="Hprof"/>
+</n>
+</word>
+<word id="word_178">
+<v canon="alegar">
+<ger/>
+</v>
+</word>
+<word id="word_179">
+<conj canon="que">
+  <secondary_conj tag="s"/>
+</conj>
+</word>
+<word id="word_180">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-1"/>
+</art>
+</word>
+<word id="word_181">
+<n canon="conhecimento" gender="M" number="S"/>
+</word>
+<word id="word_182">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_183">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_184">
+<n canon="sequência" gender="F" number="S"/>
+</word>
+<word id="word_185">
+<prp canon="de"/>
+</word>
+<word id="word_186">
+<art canon="um" gender="M" number="S">
+  <secondary_art tag="arti"/>
+</art>
+</word>
+<word id="word_187">
+<n canon="gene" gender="M" number="S">
+  <secondary_n tag="ac"/>
+</n>
+</word>
+<word id="word_188">
+<adv canon="não"/>
+</word>
+<word id="word_189">
+<v canon="poder">
+<fin tense="PR" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_190">
+<v canon="ser">
+<inf person="0-1-3S"/>
+</v>
+</word>
+<word id="word_191">
+<v canon="assimilar">
+<pcp gender="M" number="S"/>
+</v>
+</word>
+<word id="word_192">
+<adv canon="como">
+  <secondary_adv tag="rel"/>
+</adv>
+</word>
+<word id="word_193">
+<n canon="produto" gender="M" number="S">
+  <secondary_n tag="mon"/>
+</n>
+</word>
+<word id="word_194">
+<v canon="patentear">
+<pcp gender="M" number="S"/>
+</v>
+</word>
+<word id="word_195">
+<conj canon="e">
+  <secondary_conj tag="c"/>
+  <secondary_conj tag="co-vfin"/>
+  <secondary_conj tag="co-fmc"/>
+</conj>
+</word>
+<word id="word_196">
+<adv canon="portanto">
+  <secondary_adv tag="kc"/>
+</adv>
+</word>
+<word id="word_198">
+<adv canon="não"/>
+</word>
+<word id="word_199">
+<v canon="ser">
+<fin tense="PR" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_200">
+<adj canon="patenteável" gender="M-F" number="S">
+  <secondary_adj tag="-2"/>
+</adj>
+</word>
+<word id="word_202">
+<adv canon="bem">
+  <secondary_adv tag="quant"/>
+  <secondary_adv tag="-1"/>
+</adv>
+</word>
+<word id="word_203">
+<adj canon="comum" gender="M-F" number="S"/>
+</word>
+<word id="word_204">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_205">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_206">
+<n canon="humanidade" gender="F" number="S">
+  <secondary_n tag="am"/>
+  <secondary_n tag="HH"/>
+</n>
+</word>
+<word id="word_208">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_209">
+<n canon="sequenciamento" gender="M" number="S">
+  <secondary_n tag="DERS"/>
+</n>
+</word>
+<word id="word_210">
+<prp canon="de"/>
+</word>
+<word id="word_211">
+<n canon="gene" gender="M" number="P">
+  <secondary_n tag="ac"/>
+</n>
+</word>
+<word id="word_212">
+<adv canon="não"/>
+</word>
+<word id="word_213">
+<v canon="poder">
+<fin tense="PR" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_214">
+<v canon="ser">
+<inf person="0-1-3S"/>
+</v>
+</word>
+<word id="word_215">
+<v canon="limitar">
+<pcp gender="M" number="S"/>
+</v>
+</word>
+<word id="word_216">
+<prp canon="por"/>
+</word>
+<word id="word_217">
+<n canon="patente" gender="F" number="P"/>
+</word>
+<word id="word_218">
+<pron canon="que">
+<indp gender="M-F" number="S"/>
+  <secondary_pron tag="rel"/>
+</pron>
+</word>
+<word id="word_219">
+<v canon="pretender">
+<fin tense="PR" person="3P" mode="IND"/>
+</v>
+</word>
+<word id="word_221">
+<prp canon="em_nome_de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_222">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="-sam"/>
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_223">
+<n canon="direito" gender="M" number="S">
+  <secondary_n tag="ac"/>
+  <secondary_n tag="am"/>
+  <secondary_n tag="domain"/>
+</n>
+</word>
+<word id="word_224">
+<prp canon="de"/>
+</word>
+<word id="word_225">
+<n canon="propriedade" gender="F" number="S">
+  <secondary_n tag="Lh"/>
+  <secondary_n tag="cm"/>
+</n>
+</word>
+<word id="word_226">
+<adj canon="industrial" gender="M-F" number="S"/>
+</word>
+<word id="word_228">
+<v canon="proteger">
+<inf person="0-1-3S"/>
+</v>
+</word>
+<word id="word_229">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_230">
+<n canon="exclusividade" gender="F" number="S">
+  <secondary_n tag="f"/>
+</n>
+</word>
+<word id="word_231">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_232">
+<pron canon="esse">
+<det gender="M" number="S"/>
+  <secondary_pron tag="dem"/>
+  <secondary_pron tag="-sam"/>
+</pron>
+</word>
+<word id="word_233">
+<n canon="conhecimento" gender="M" number="S">
+  <secondary_n tag="state-h"/>
+  <secondary_n tag="p"/>
+  <secondary_n tag="-2"/>
+</n>
+</word>
+<word id="word_235">
+<v canon="dizer">
+<fin tense="PR" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_236">
+<v canon="parecer">
+<inf person="0-1-3S"/>
+</v>
+</word>
+<word id="word_237">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_238">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_239">
+<prop canon="CCNE" gender="M-F" number="S"/>
+</word>
+<word id="word_241">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_242">
+<n canon="assunto" gender="M" number="S"/>
+</word>
+<word id="word_243">
+<v canon="dever">
+<fin tense="PR" person="3S" mode="IND"/>
+</v>
+</word>
+<word id="word_244">
+<v canon="ser">
+<inf person="0-1-3S"/>
+</v>
+</word>
+<word id="word_245">
+<v canon="debater">
+<pcp gender="M" number="S"/>
+</v>
+</word>
+<word id="word_246">
+<prp canon="durante"/>
+</word>
+<word id="word_247">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+</art>
+</word>
+<word id="word_248">
+<n canon="presidência" gender="F" number="S">
+  <secondary_n tag="pos-soc"/>
+</n>
+</word>
+<word id="word_249">
+<adj canon="francês" gender="F" number="S"/>
+</word>
+<word id="word_250">
+<prp canon="de">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_251">
+<art canon="o" gender="F" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_252">
+<prop canon="UE" gender="M-F" number="S"/>
+</word>
+<word id="word_254">
+<prp canon="em">
+  <secondary_prp tag="sam-"/>
+</prp>
+</word>
+<word id="word_255">
+<art canon="o" gender="M" number="S">
+  <secondary_art tag="artd"/>
+  <secondary_art tag="-sam"/>
+</art>
+</word>
+<word id="word_256">
+<adj canon="segundo" gender="M" number="S">
+  <secondary_adj tag="NUM-ord"/>
+</adj>
+</word>
+<word id="word_257">
+<n canon="semestre" gender="M" number="S">
+  <secondary_n tag="per"/>
+</n>
+</word>
+</words>
