@@ -20,6 +20,8 @@ namespace SummitRelations
 
             IndiretosPlural(pos, markables);
 
+            Console.WriteLine("Null markables: " + CountNullMarkables(markables));
+
             Console.ReadKey();
         }
 
@@ -67,6 +69,12 @@ namespace SummitRelations
                     found++;
             }
             Console.WriteLine("Indirect plural: " + found);
+        }
+
+        // quantos markables estão com classificação nulo
+        static int CountNullMarkables(List<Markable> markables)
+        {
+            return markables.Where(x => x.IsAnaphoric == null).Count();
         }
     }
 }
