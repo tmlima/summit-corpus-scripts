@@ -52,7 +52,8 @@ namespace SummitRelations
                             Markable markable = setMarkables[i];
                             if (markable.IsAnaphoric != "direct")
                             {
-                                Console.WriteLine(markable.Id);
+                                string canon = "[" + string.Join("][", pos.Where(x => markable.SpanWordsId.Contains(x.Id) && x.Text == markable.Text).Select(x => x.Canon)) + "]";
+                                Console.WriteLine(markable.Id + canon);
                             }
                         }
                     }
