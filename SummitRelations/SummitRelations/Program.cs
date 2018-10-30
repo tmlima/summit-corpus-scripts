@@ -25,13 +25,13 @@ namespace SummitRelations
             NonDirectMarkables(markables);
 
             Console.ReadKey();
+            Console.ReadLine();
         }
 
         //elementos da cadeia que a qual ele pertence que vieram antes dele e que não sejam direto ordernados pela primeira palavra do span
         static void ElementosDaCadeiaAnterioresIndiretos(List<Pos> pos, List<Markable> markables)
         {
             List<Markable> indirects = markables.Where(x => x.IsAnaphoric == "indirect").ToList();
-            Console.WriteLine("Indirects: " + indirects);
 
             markables = markables.OrderBy(x => x.Text).ToList();
             List<string> texts = markables.Select(x => x.Text).Distinct().ToList();
