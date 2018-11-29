@@ -24,8 +24,16 @@ namespace SemEval
             string regex;
             if (chain.StartsWith("("))
             {
-                ChainPosition = TokenChainPosition.Open;
-                regex = @"\((\d+)";
+                if (chain.EndsWith(")"))
+                {
+                    ChainPosition = TokenChainPosition.OpenAndClose;
+                    regex = @"\((\d+)\)";
+                }
+                else
+                {
+                    ChainPosition = TokenChainPosition.Open;
+                    regex = @"\((\d+)";
+                }
             }
             else
             {
@@ -45,6 +53,21 @@ namespace SemEval
         public void OpenAndCloseChain()
         {
             ChainPosition = TokenChainPosition.OpenAndClose;
+        }
+
+        public string GenerateSemEval()
+        {
+            switch ( ChainPosition )
+            {
+                case TokenChainPosition.Open:
+                    return "(" + ChainNumber;
+                case TokenChainPosition.Close:
+                    return ChainNumber + ")";
+                case TokenChainPosition.OpenAndClose:
+                    return "(" + ChainNumber + ")";
+                default:
+                    throw new Exception();
+            }
         }
     }
 }

@@ -29,6 +29,18 @@ namespace SemEval
                 s.RemoveQuotesLines();
         }
 
+        public string GenerateSemEval()
+        {
+            string semEval = "#begin document " + name + "\n";
+
+            foreach (Sentence s in sentences)
+                semEval += s.GenerateSemEval();
+
+            semEval += "#end document" + "\n";
+
+            return semEval;
+        }
+
         private List<string[]> BreakBySentence(string[] document)
         {
             List<string[]> sentences = new List<string[]>();

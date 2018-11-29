@@ -31,6 +31,14 @@ namespace SemEval
                 Chains.Add( new TokenChain( chainNumber, chainPosition ) );
         }
 
+        public string GenerateSemEval()
+        {
+            if ( Chains.Count == 0 )
+                return "_";
+            else
+                return String.Join( "|", Chains.Select( x => x.GenerateSemEval() ) );
+        }
+
         private void OpenAndCloseChain( int chainNumber, TokenChainPosition chainPosition )
         {
             TokenChain tokenChain = Chains.Single( x => x.ChainNumber == chainNumber );

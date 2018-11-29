@@ -17,6 +17,22 @@ namespace SemEval
                 tokens.Add( new Token( l ) );
         }
 
+        public string GenerateSemEval()
+        {
+            string semEval = "";
+            int lineCount = 0;
+
+            foreach (Token t in tokens)
+            {
+                semEval += lineCount + "\t" + t.GenerateSemEval() + "\n";
+                lineCount++;
+            }
+
+            semEval += "\n";
+
+            return semEval;
+        }
+
         public void RemoveQuotesLines()
         {
             List<Token> newTokens = new List<Token>();
@@ -46,6 +62,8 @@ namespace SemEval
                     newTokens.Add( t );
                 }
             }
+
+            tokens = newTokens;
         }
     }
 }

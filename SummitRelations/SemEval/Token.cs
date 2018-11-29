@@ -24,5 +24,17 @@ namespace SemEval
         {
             Chains.AddChain( chainNumber, chainPosition );
         }
+
+        public string GenerateSemEval()
+        {
+            return tokens[ 1 ] + "\t" +
+                tokens[ 2 ] + "\t" +
+                tokens[ 3 ] + "\t" +
+                tokens[ 4 ] + "\t" +
+                tokens[ 5 ] + "\t" +
+                tokens[ 6 ] + "\t" +
+                tokens[ 7 ] + "\t" +
+                Chains.GenerateSemEval();
+        }
     }
 }

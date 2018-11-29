@@ -11,13 +11,12 @@ namespace SemEval
     {
         static void Main( string[] args )
         {
-            string[] lines = File.ReadAllLines( @"SemEvalOriginal\SummitSemEvalDoisApostos.txt", Encoding.GetEncoding( "iso-8859-1" ) );
+            Encoding iso = Encoding.GetEncoding( "iso-8859-1" );
+            string[] lines = File.ReadAllLines( @"SemEvalOriginal\SummitSemEvalDoisApostos.txt", iso );
             SemEval semEval = new SemEval( lines );
             semEval.RemoveQuotesLines();
-            string[] newFile = semEval.GenerateSemEval();
-            File.WriteAllText( "SemEval_" + DateTime.Now.ToString( "yyyymmdd_hhMMss" ), String.Join(Environment.NewLine, newFile ) );
-
-            // TODO: fazer compare entre o original e o output
+            string newFile = semEval.GenerateSemEval();
+            File.WriteAllText( "SemEval_" + DateTime.Now.ToString( "yyyymmdd_hhMMss" ) + ".txt", newFile , iso );
         }
     }
 }

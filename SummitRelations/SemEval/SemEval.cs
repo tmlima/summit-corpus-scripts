@@ -26,7 +26,7 @@ namespace SemEval
 
                     currentDocument = ParseDocumentName(line);
                 }
-                else if (line.Contains( "#end document"))
+                else if (line.Contains("#end document"))
                 {
                     documents.Add( new Document( currentDocument, currentDocumentLines.ToArray() ) );
                     currentDocumentLines = new List<string>();
@@ -48,9 +48,13 @@ namespace SemEval
                 d.RemoveQuotesLines();
         }
 
-        public string[] GenerateSemEval()
+        public string GenerateSemEval()
         {
-            throw new NotImplementedException();
+            string file = "";
+            foreach (Document d in documents)
+                file += d.GenerateSemEval();
+
+            return file;
         }
 
         private string ParseDocumentName(string line)
