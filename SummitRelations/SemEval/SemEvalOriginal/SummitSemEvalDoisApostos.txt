@@ -17390,7 +17390,7 @@
 4	pele	pele	n	F=S	0	_	_	_
 5	artificial	artificial	adj	F=S	_	_	_	_
 6	para	para	prp	_	_	_	_	_
-7	robôs	robô	n	M=P	0	_	_	(26)39)
+7	robôs	robô	n	M=P	0	_	_	(26)|39)
 8	que	que	pron-indp	M=P	0	_	_	_
 9	imita	imitar	v-fin	PR=3S=IND	_	_	_	_
 10	uma	um	art	F=S	_	_	_	_
