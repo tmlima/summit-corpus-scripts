@@ -22,7 +22,7 @@ namespace SummitRelations
 
             IndiretosPlural(pos, markables);
 
-            Console.WriteLine("Null markables: " + CountNullMarkables(markables));
+            Console.WriteLine("Null markables that belong to a set: " + CountNullMarkables(markables));
 
             NonDirectMarkables(markables);
 
@@ -83,7 +83,7 @@ namespace SummitRelations
         // quantos markables estão com classificação nulo
         static int CountNullMarkables(List<Markable> markables)
         {
-            return markables.Where(x => x.IsAnaphoric == null).Count();
+            return markables.Where(x => x.Member != null && x.IsAnaphoric == null).Count();
         }
 
         // quantos markables tem de cada tipo não-direto
