@@ -22,6 +22,7 @@ namespace SummitRelations
 
             IndiretosPlural(pos, markables);
 
+            Console.WriteLine("Markables that belong to a set: " + markables.Where(x => x.Member != null).Count());
             Console.WriteLine("Null markables that belong to a set: " + CountNullMarkables(markables));
 
             NonDirectMarkables(markables);
